@@ -1,3 +1,2 @@
 Author: win81vmuser http://github.com/win81vmuser
-Year: Jun 2026
 License: CC BY-NC 4.0

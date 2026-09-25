@@ -22,7 +22,7 @@ for non-commercial purposes as long as they give appropriate credit.
 ```
 Property    Value
 Resolution: 1440 × 3200 px (or higher)
-Formats accepted:  WEBP (Digital artwork), PNG or JPEG (Photography)
+Formats accepted:  WEBP (Digital artwork), PNG or JPEG (Photography) (We highly recommend WEBP lossless format)
 Color profile: sRGB
 ```
 >>>>>>>>>>>>>>>>
@@ -30,11 +30,11 @@ Color profile: sRGB
 ### Required at least 1440x3200 as minimum. Submissions below this resolution will be rejected.
 >>>>>>>>>>>>>>>>
 ### Folder Structure
--- Your submission goes inside `Wallpapers/Community/` and contains an example of `Author.txt`.
+-- Your submission goes inside `Wallpapers/[Your-Username]/` and contains an example of `Author.txt`.
 -- Follow the exact same conventions used in the main wallpapers.
 ```
-Wallpapers/
-  Community/
+/Wallpapers/
+  [Your-Username]/
     YourWallpaperName-Wallpaper/
     AUTHORS.txt                           < Declare your atributtion
       YourWallpaperName/                  < Base variant (required)
@@ -72,7 +72,6 @@ If your wallpaper has color variants, use only the following names.
 ---Neon: Vivid blue or similar electric tone
 ---Honey: Orange
 ---Charcoal: Black
----
 ```
 >>>>>>>>>>>>>>>>>>
 ### Style & Aesthetic variants:
@@ -123,8 +122,16 @@ WallpaperName-Descriptor.webp
 WallpaperName-Descriptor-WL.webp      < With RestlessOS Logo
 WallpaperName-Descriptor-WTL.webp     < With RestlessOS Text + Logo
 WallpaperName-Descriptor-WNTL.webp     < Without Text Logo
-WallpaperName-Descriptor-WNP.webp     < Without Particles
+WallpaperName-Descriptor-WNP.webp     < Without Particles or/and Post-Processing Effects
 ```
+>>>>>>>>>>>>>>>>>>
+### WNP (Without Particles or/and Post-Processing Effects) Definition
+
+-- WNP refers to the absence of particles and/or post-processing effects 
+applied over the base image, including but not limited to: particles, 
+blur, chromatic aberration, grain/noise, glow, vignetting, and 
+distortion.
+>>>>>>>>>>>>>>>>>>
 --- Does your wallpaper have Light/Dark variations?
 ```
 WallpaperName-Descriptor-Dark/Light.png
@@ -147,7 +154,7 @@ WallpaperName-Descriptor-Dark/Light-WNP.png     < Dark/Light Without Particles
 -- Fork this repository.
 
 -- Create your folder under
-`Wallpapers/Community/` following the structure above.
+`/Wallpapers/` following the structure above.
 
 -- Open a Pull Request with a short description of your wallpaper.
 
