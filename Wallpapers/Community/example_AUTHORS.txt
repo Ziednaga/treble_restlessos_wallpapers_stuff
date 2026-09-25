@@ -1,3 +1,0 @@
-Author: YourGitHubUsername
-Year: 2026
-License: CC BY-NC 4.0
