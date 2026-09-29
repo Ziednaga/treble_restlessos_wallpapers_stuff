@@ -35,8 +35,8 @@ Color profile: sRGB
 ```
 /Wallpapers/
   [Your-Username]/
-    YourWallpaperName-Wallpaper/
-    AUTHORS.txt                           < Declare your atributtion
+    AUTHORS.txt.                                          < Declare your attribution
+    YourWallpaperName-Wallpaper/                          
       YourWallpaperName/                  < Base variant (required)
           YourWallpaperName-Silver.webp
           YourWallpaperName-Aqua.webp
