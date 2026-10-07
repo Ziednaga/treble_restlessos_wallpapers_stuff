@@ -1,1 +1,2 @@
 Author: YourGitHubUsername/Social media username [Link to your profile]
+LICENSE: CC BY-NC 4.0
