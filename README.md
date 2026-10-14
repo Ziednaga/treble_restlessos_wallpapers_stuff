@@ -9,9 +9,9 @@ This repository serves purely as a "photo gallery" for these visual assets and n
 Community contributions are welcome. If you want to submit your own wallpapers, please read the CONTRIBUTING.md before opening a Pull Request.
 Community wallpapers live under:
 ```
-/Wallpapers/Community/
+/Wallpapers/
 ```
-With an example of AUTHOR.TXT file.
+With an example example folder for how to make it.
 
 ## License
 All artwork, wallpapers, and visual content created by @Ziednaga or other users who wish to host their creations in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
