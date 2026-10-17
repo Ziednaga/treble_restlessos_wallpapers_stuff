@@ -1,0 +1,3894 @@
+{
+ "schema": 1,
+ "commit": "ed6f666fe96ffa46e494884148d5d10043ede07d",
+ "base_url": "https://raw.githubusercontent.com/Ziednaga/treble_restlessos_wallpapers_stuff/ed6f666fe96ffa46e494884148d5d10043ede07d/",
+ "packs": [
+  {
+   "id": "ADayInTheLife",
+   "name": "A Day In The Life",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Multicolor",
+     "items": [
+      {
+       "name": "A",
+       "path": "ADayInTheLife/ADayInTheLife/ADayInTheLife-A.webp",
+       "size": 1507534,
+       "sha256": "d6718de53c97e443f40452006346a6cd1ed30718b70ae65d15803cadc75da37d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d6718de53c97e443.webp"
+      },
+      {
+       "name": "B",
+       "path": "ADayInTheLife/ADayInTheLife/ADayInTheLife-B.webp",
+       "size": 1773138,
+       "sha256": "e8ed73fd1722dd7c91f44e9abd2858411aef674a5afed6ce3e18e6d9b99af38f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e8ed73fd1722dd7c.webp"
+      },
+      {
+       "name": "C",
+       "path": "ADayInTheLife/ADayInTheLife/ADayInTheLife-C.webp",
+       "size": 1716902,
+       "sha256": "729bfdbd54d8b0554dc1e252cba063424fd7473106107b2bffce5f602ddc063b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/729bfdbd54d8b055.webp"
+      }
+     ]
+    },
+    {
+     "name": "Single Color",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Amethyst.webp",
+       "size": 1228320,
+       "sha256": "512b6668b09eecb2b22805a6152dcd151fc3dea7dacce8755cdf5a7750ff6054",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/512b6668b09eecb2.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Aqua.webp",
+       "size": 1228332,
+       "sha256": "4bffd91c17c5d9790787a4571056c8d303c4f96fa4a5a0b414c5b22eb5f9a255",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4bffd91c17c5d979.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Copper.webp",
+       "size": 1228346,
+       "sha256": "73fe6f36b185aaa4989ff22cbf47d30beddbbc6bc1b2b5fe531ec7319dbd5299",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/73fe6f36b185aaa4.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Gold.webp",
+       "size": 1228380,
+       "sha256": "faba8e47a445c6aa5d5f3480576f9420977e5dfbe19b6addb0194d9f6de195f7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/faba8e47a445c6aa.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Honey.webp",
+       "size": 1228356,
+       "sha256": "13b878f85328d9716226f9f6ed3c85ed83b302d8fcf18d98a404c5db04f090ce",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/13b878f85328d971.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Neon.webp",
+       "size": 1228330,
+       "sha256": "31b2b7cbffd91f02a65bdd2156662feaf513b4ecec84b3cb66ec8f75c42397bd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/31b2b7cbffd91f02.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Radio.webp",
+       "size": 1228338,
+       "sha256": "9d33e3d874ae8be7c1cb37c602fa0b94eb1fa9f999cdb691359396cddb4529cd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9d33e3d874ae8be7.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Silver.webp",
+       "size": 1228270,
+       "sha256": "c0d72aca698cc904316e8117846d987f720ddf1952532fcf66f87e1f76d20f53",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c0d72aca698cc904.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Sweet.webp",
+       "size": 1228320,
+       "sha256": "c548a3d2a550a18713bdf88c01df594a0f6867ede4390117f6dbdfeb81d673ce",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c548a3d2a550a187.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "ADayInTheLife/ADayInTheLife-Flat-Colors/ADayInTheLife-Titanium.webp",
+       "size": 1228318,
+       "sha256": "4ae6d596b3ba16a03a0a0e7a8d85485eb952d5a60b79237f8322d828eb955fa9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4ae6d596b3ba16a0.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ALifeOfEase",
+   "name": "A Life Of Ease",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Amethyst.webp",
+       "size": 1069736,
+       "sha256": "7149346b33bcb7957c3e0f7eb59ac8593f2cc9aed9faa9f1095bf1b95e36d823",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/7149346b33bcb795.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Aqua.webp",
+       "size": 1069748,
+       "sha256": "0c39c4936ef2ae0ffee9ea8d63edc8748c5d79df4a3ea1561925232162828216",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/0c39c4936ef2ae0f.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Copper.webp",
+       "size": 1069750,
+       "sha256": "1e0fa9078011b22e9ae86d3486c3a020afe4453804486497c1b34fac36ef5ead",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/1e0fa9078011b22e.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Gold.webp",
+       "size": 1069736,
+       "sha256": "031ebe0474fbc8a192caa0c07a98fd63147d139861c78c583b20f97d8a90bf6b",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/031ebe0474fbc8a1.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Honey.webp",
+       "size": 1069796,
+       "sha256": "2bdb2c1569584730630e90a5e9b2a7394433346940b9fbe772baa6abaac5f1b3",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/2bdb2c1569584730.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Neon.webp",
+       "size": 1069742,
+       "sha256": "b276564e81e5bf74b4878400cde20684da661bf260ecd3dc944a11f6a1286bdb",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/b276564e81e5bf74.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Radio.webp",
+       "size": 1069740,
+       "sha256": "70187bc2ad9b3ef7981bdabdfa9cc56cd47ec8fa05e93ad82fce0dfc61c546d4",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/70187bc2ad9b3ef7.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Silver.webp",
+       "size": 1069684,
+       "sha256": "13e8656d7982d566ded40c486f43a04ec8dcc5b82c080fc5832504da4ee45fbb",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/13e8656d7982d566.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Sweet.webp",
+       "size": 1069718,
+       "sha256": "0575b34fe696335c1bbe5916ad53a0ec74f7d8c5fb0bc950940cb19066a76d38",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/0575b34fe696335c.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "ALifeOfEase/ALifeOfEase/ALifeOfEase-Titanium.webp",
+       "size": 1069738,
+       "sha256": "5618848ff50730a340d9281df8a950e411e3550332ae8e04f48dca5d3066c1f7",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/5618848ff50730a3.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "BeatYourRhythm",
+   "name": "Beat Your Rhythm",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BeatYourRhythm/BeatYourRhythm/BeatYourRhythm-Amethyst.webp",
+       "size": 66304,
+       "sha256": "6db9dbf60e69e87c24218477e01eed26f424ec2eadbdc872ff35fd76255d1407",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6db9dbf60e69e87c.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BeatYourRhythm/BeatYourRhythm/BeatYourRhythm-Aqua.webp",
+       "size": 66312,
+       "sha256": "061f62b3af5b4dd123a32043ad76d7c643802cb056e299fae62311d2fbccb72c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/061f62b3af5b4dd1.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BeatYourRhythm/BeatYourRhythm/BeatYourRhythm-Copper.webp",
+       "size": 66312,
+       "sha256": "a486e5f72c28565753a6492d9a9cffe109cbca28c62525c764892242c6e4ff59",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a486e5f72c285657.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BeatYourRhythm/BeatYourRhythm/BeatYourRhythm-Silver.webp",
+       "size": 23814,
+       "sha256": "3f9476e1c40e4a3d59eb0a846217c0398cee5f39639ae7f8ce84312779fff127",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3f9476e1c40e4a3d.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BeatYourRhythm/BeatYourRhythm/BeatYourRhythm-Titanium.webp",
+       "size": 23862,
+       "sha256": "29e7636995f25ab3dc890126550574c8edf7bca3204cf7de7b788af9c771a6c8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/29e7636995f25ab3.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BeatYourRhythm/BeatYourRhythm-WL/BeatYourRhythm-Amethyst-WL.webp",
+       "size": 149596,
+       "sha256": "d7700ade1c7816c19ba7e071b9a5de639f779d0e988bf4f2dc2c81f0b815878b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d7700ade1c7816c1.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BeatYourRhythm/BeatYourRhythm-WL/BeatYourRhythm-Aqua-WL.webp",
+       "size": 166816,
+       "sha256": "c1de766749be7bb08caf52be6e09df479f01e777479ccb2b7a260443b6da43f7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c1de766749be7bb0.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BeatYourRhythm/BeatYourRhythm-WL/BeatYourRhythm-Copper-WL.webp",
+       "size": 167300,
+       "sha256": "f7b42c961fc10c7d6698e1caf3b5a689f46f771ab12e71b523b10929a8ec9b1b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f7b42c961fc10c7d.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BeatYourRhythm/BeatYourRhythm-WL/BeatYourRhythm-Silver-WL.webp",
+       "size": 81984,
+       "sha256": "9fbd0c07c6286550cebd1d1a0380ff63b512f3b7c3e1d346764a0611ac6cde2e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9fbd0c07c6286550.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BeatYourRhythm/BeatYourRhythm-WL/BeatYourRhythm-Titanium-WL.webp",
+       "size": 131270,
+       "sha256": "4791664244ae8b8efb2871829c9f3e387f44ade65e85fa885a463fb80d09efc8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4791664244ae8b8e.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Text Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BeatYourRhythm/BeatYourRhythm-WTL/BeatYourRhythm-Amethyst-WTL.webp",
+       "size": 90116,
+       "sha256": "d2913e58dcbe0b45f75f5ecd8f1e1436eb722de4748dde65ffbd63ab9ff99547",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d2913e58dcbe0b45.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BeatYourRhythm/BeatYourRhythm-WTL/BeatYourRhythm-Aqua-WTL.webp",
+       "size": 87932,
+       "sha256": "397a008576780d70be12cfb436efe88eb032a6e5d5a56c1b73ee2a73c435b1dc",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/397a008576780d70.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BeatYourRhythm/BeatYourRhythm-WTL/BeatYourRhythm-Copper-WTL.webp",
+       "size": 86854,
+       "sha256": "e8f740589fe8efa6797fab64a5b766dd750f6ae1be68a513852d995e8aacd817",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e8f740589fe8efa6.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BeatYourRhythm/BeatYourRhythm-WTL/BeatYourRhythm-Silver-WTL.webp",
+       "size": 52190,
+       "sha256": "4059e52c3263774007bfb01dcd531823c5b3ce8daeee4785f13fdd654cdeb5cd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4059e52c32637740.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BeatYourRhythm/BeatYourRhythm-WTL/BeatYourRhythm-Titanium-WTL.webp",
+       "size": 53768,
+       "sha256": "56ac8c09fd64066272a7fcad066517f7daba0f3c33c253287f5f266f292babd4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/56ac8c09fd640662.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "BehindTheTears",
+   "name": "Behind The Tears",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Amethyst.webp",
+       "size": 1068744,
+       "sha256": "bccc4b9eefb81f184759bfcd63083bfbbeb4d1784dc6e81d0d7f45926f446339",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/bccc4b9eefb81f18.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Aqua.webp",
+       "size": 1068784,
+       "sha256": "90cd5dfc17338d7fce4a4491b6dd19c096065403e315346296480653ede6b70d",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/90cd5dfc17338d7f.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Copper.webp",
+       "size": 1068780,
+       "sha256": "c3470a8d83648665d351fcaef738bde74b9c383373bed73e7e34664e4fff934a",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/c3470a8d83648665.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Gold.webp",
+       "size": 1068762,
+       "sha256": "7ad890b0bfb6adc2c36026605380f3a57cdeb87937bf24c19102cebeda57f2d9",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/7ad890b0bfb6adc2.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Honey.webp",
+       "size": 1068790,
+       "sha256": "f24ba32fc3336cff3dcf40aeca14778bcf0fc43c0cf70b56dc79c82e77bf90f3",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/f24ba32fc3336cff.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Neon.webp",
+       "size": 1068744,
+       "sha256": "8316fdbd9bc33e9ac2e9667ae4e10a826f3e58333d818ed082bd1bc36e1ccf3b",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/8316fdbd9bc33e9a.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Radio.webp",
+       "size": 1068762,
+       "sha256": "b1f2b309e6417df76c9918c15ba78ca91db9936e8f125786c99bd61f89027c67",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/b1f2b309e6417df7.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Silver.webp",
+       "size": 1068724,
+       "sha256": "c0231f01213c18aee9deac8fca9b4d9143db334e009f914303432a7fb6ad9a7e",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/c0231f01213c18ae.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Sweet.webp",
+       "size": 1068742,
+       "sha256": "17b7895da7414aac84c93b6328e1958138ab20d997c921fee9c0c638326843c1",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/17b7895da7414aac.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BehindTheTears/BehindTheTears/BehindTheTears-Titanium.webp",
+       "size": 1068766,
+       "sha256": "369eb87f684e81fce7b232bf1bb71dbbeb2e08afda98237d89075c9bdc881e5f",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/369eb87f684e81fc.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "BeneathStillWaters",
+   "name": "Beneath Still Waters",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Amethyst.webp",
+       "size": 1852628,
+       "sha256": "0e79c15547e589ea817e35afa832f282b9e3bd412d062dc835416dd07a7cc440",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/0e79c15547e589ea.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Aqua.webp",
+       "size": 1862526,
+       "sha256": "5c18c3e9777fddd935673c12ba7f4595113c23dd0552f1886cb9ee36d6e8fadf",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5c18c3e9777fddd9.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Copper.webp",
+       "size": 1823634,
+       "sha256": "8b75b555091cf3645bb672eef8f864c0d07de6cd0b68f7a3f688944a5facc14f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8b75b555091cf364.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Gold.webp",
+       "size": 1850066,
+       "sha256": "12a084a117dde169a142b08f4c4c2ddf9847671856bab202c284e3f24bb958b6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/12a084a117dde169.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Neon.webp",
+       "size": 1820196,
+       "sha256": "74b5a74af5bfde6b3fbfe03e26ebc63465147dde1cf6e34a3d91402e8b1c8d1d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/74b5a74af5bfde6b.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Radio.webp",
+       "size": 1834800,
+       "sha256": "b7893072c365c5c4e94bafbb3f1c2f9b4b558786ade0ad4e3ee94568ba6c32a6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b7893072c365c5c4.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Silver.webp",
+       "size": 950712,
+       "sha256": "b4c880bcaf2fd1e6459dd01e1d12fdddebaed6e42f0a55d10fd07fa2d8ad94dc",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b4c880bcaf2fd1e6.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Sweet.webp",
+       "size": 1820208,
+       "sha256": "15e137c2e11329a2409ace49dc96014c4eba7c0079146b19868ee58c6f4fd00c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/15e137c2e11329a2.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BeneathStillWaters/BeneathStillWaters/BeneathStillWaters-Titanium.webp",
+       "size": 1777288,
+       "sha256": "efc71844e9b82bf5d23d3e58635b1e2ed94b838008a43879932d334dc5a175bd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/efc71844e9b82bf5.webp"
+      },
+      {
+       "name": "WithinStillWaters",
+       "path": "BeneathStillWaters/BeneathStillWaters/WithinStillWaters.webp",
+       "size": 2461944,
+       "sha256": "ad022e975b15461e8a65b5ca8315377a04151d82c2e91fbddc5e447ca5d1c92e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ad022e975b15461e.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Amethyst-WL.webp",
+       "size": 1936878,
+       "sha256": "3477ab1a9ba5aa9a1e466441d85fa233b03fc5894d816274a2dd200651dd3021",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3477ab1a9ba5aa9a.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Aqua-WL.webp",
+       "size": 1937506,
+       "sha256": "ec6e1af0acfc9c47c13ff5ac51e7113d397349af4532893bc512bdc8b14ac982",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ec6e1af0acfc9c47.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Copper-WL.webp",
+       "size": 1905496,
+       "sha256": "82ad27478c16c33d0c608748a6cee9149082cafeb4c1c1764cfdb5d590a71853",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/82ad27478c16c33d.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Gold-WL.webp",
+       "size": 1934962,
+       "sha256": "f5aadf085372dc08a2ea2648e0e7334163f960fe7146cc497e18eae75ed48ba8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f5aadf085372dc08.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Neon-WL.webp",
+       "size": 1895602,
+       "sha256": "898b84c5e1a7518ad58db34da01fbb49d2918c967fdc31723d56948a67a59b1d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/898b84c5e1a7518a.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Radio-WL.webp",
+       "size": 1913632,
+       "sha256": "3260b52667fe39eb3a84222054124de8f480bb4eb01b8cf1d4249fb2d8178c89",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3260b52667fe39eb.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Silver-WL.webp",
+       "size": 995132,
+       "sha256": "1c5777e91ddf2d784b4b5dbfb6a996de083c108f7611d9d0447ff9f3361aee85",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1c5777e91ddf2d78.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Sweet-WL.webp",
+       "size": 1906962,
+       "sha256": "479b434974a3645e22ac5231ebe749387cb6f139e480309ec3bb103a82654a32",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/479b434974a3645e.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/BeneathStillWaters-Titanium-WL.webp",
+       "size": 1860426,
+       "sha256": "9e9518542c82a5bdb8e6a52377ed6a51f2af2d33120bcc354d78948343563813",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9e9518542c82a5bd.webp"
+      },
+      {
+       "name": "WithinStillPlaces",
+       "path": "BeneathStillWaters/BeneathStillWaters-WL/WithinStillPlaces.webp",
+       "size": 2530196,
+       "sha256": "5065b51d1ce4a8c5b8c6b4363a923803b21ba12872f7b8f1f8673c8c5de64ec4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5065b51d1ce4a8c5.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "BetweenWaves",
+   "name": "Between Waves",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Grainy With Logo",
+       "path": "BetweenWaves/BetweenWaves/BetweenWaves-Grainy-WL.webp",
+       "size": 542274,
+       "sha256": "d071fed051b1ea7f5fec0e79d95891512b62ae5768b8a9b2974823801c838619",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d071fed051b1ea7f.webp"
+      },
+      {
+       "name": "Grainy",
+       "path": "BetweenWaves/BetweenWaves/BetweenWaves-Grainy.webp",
+       "size": 495378,
+       "sha256": "613442514f2e5bc9e7c7286cfa945492cd0a52d81669b40a0b3adf012cd81d29",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/613442514f2e5bc9.webp"
+      },
+      {
+       "name": "With Logo",
+       "path": "BetweenWaves/BetweenWaves/BetweenWaves-WL.webp",
+       "size": 340962,
+       "sha256": "23604a49f1bee3231cd08bceeea026d9257372d7a08ce175b7e1d74964aea811",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/23604a49f1bee323.webp"
+      },
+      {
+       "name": "BetweenWaves",
+       "path": "BetweenWaves/BetweenWaves/BetweenWaves.webp",
+       "size": 306870,
+       "sha256": "b5b9f96cebc467ca6e216ca5ecb12d81f27276e585c40d9a025cf7163d7b3b41",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b5b9f96cebc467ca.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "BlurryFieldsForever",
+   "name": "Blurry Fields Forever",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Afternoon.webp",
+       "size": 3840768,
+       "sha256": "3ec1cb886b5b3cb12960eeb4b182486aa00297d471ec674e2cf8b2bfbb13aa08",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3ec1cb886b5b3cb1.webp"
+      },
+      {
+       "name": "Homescreen Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Homescreen-Afternoon.webp",
+       "size": 3819848,
+       "sha256": "a95ec485ed4fe0ebad48c81cc9a43a1e8acae203d84df27c861885a315c12547",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a95ec485ed4fe0eb.webp"
+      },
+      {
+       "name": "Homescreen Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Homescreen-Noon.webp",
+       "size": 3944614,
+       "sha256": "b4edb7861bcdd7c777680ee3973bb1195832bf4e91a31811a1433678ce416d33",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b4edb7861bcdd7c7.webp"
+      },
+      {
+       "name": "Lockscreen Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Lockscreen-Afternoon.webp",
+       "size": 3863354,
+       "sha256": "c1413592e64352e080a43428e6955857ef26dcaf94ff3972ff267a2143f10885",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c1413592e64352e0.webp"
+      },
+      {
+       "name": "Lockscreen Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Lockscreen-Noon.webp",
+       "size": 3984868,
+       "sha256": "e0a26107a5a92afa75d3952ca1c85db628a0d577ae1b271b19a2124fa9321f20",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e0a26107a5a92afa.webp"
+      },
+      {
+       "name": "Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever/BlurryFieldsForever-Noon.webp",
+       "size": 3971718,
+       "sha256": "fbafe2e1da4ca5ba6853b3fb4abce7ee5c75653014d3d7e4e3168c3b1d3e8f2f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/fbafe2e1da4ca5ba.webp"
+      }
+     ]
+    },
+    {
+     "name": "Ultra HD",
+     "items": [
+      {
+       "name": "Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Afternoon-UHD.webp",
+       "size": 15121982,
+       "sha256": "7b2016dac2ddb09f6abdb20d2dbc49d15c0d892552ba66860232998cd8966ef7",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/7b2016dac2ddb09f.webp"
+      },
+      {
+       "name": "Homescreen Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Homescreen-Afternoon-UHD.webp",
+       "size": 14966632,
+       "sha256": "0fe0320b2ec8a2e830fcddee98d2b1a0c1518b0ef69af03a8b942251ef1bdbaa",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/0fe0320b2ec8a2e8.webp"
+      },
+      {
+       "name": "Homescreen Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Homescreen-Noon-UHD.webp",
+       "size": 15350684,
+       "sha256": "0327a0f773578e34f60bb04df406aab90dfe10df32105651f480b5b9f51644f1",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/0327a0f773578e34.webp"
+      },
+      {
+       "name": "Lockscreen Afternoon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Lockscreen-Afternoon-UHD.webp",
+       "size": 15119908,
+       "sha256": "4980d750d6719422b248bcd1f778ebb0ad25fa5730bb52b1b6d8bfec6f492108",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/4980d750d6719422.webp"
+      },
+      {
+       "name": "Lockscreen Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Lockscreen-Noon-UHD.webp",
+       "size": 15499226,
+       "sha256": "ef0a14b13122e59aacc0b3f472dfef2705cc853d066387be1587166f22acd685",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/ef0a14b13122e59a.webp"
+      },
+      {
+       "name": "Noon",
+       "path": "BlurryFieldsForever/BlurryFieldsForever-UHD/BlurryFieldsForever-Noon-UHD.webp",
+       "size": 15510972,
+       "sha256": "abdb358115fbc7de3b73159e45db7161b033cd8eadfd578ee71e5a3f2ae6d911",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/abdb358115fbc7de.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "DimmingField",
+   "name": "Dimming Field",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "DimmingField/DimmingField/DimmingField-Amethyst.webp",
+       "size": 3723180,
+       "sha256": "8ec558b0934cd2083f9d5b31895c3a1722d6bf769e46bb44d72f5ac4a7501ebf",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8ec558b0934cd208.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "DimmingField/DimmingField/DimmingField-Aqua.webp",
+       "size": 3723180,
+       "sha256": "5d796df2d1e69d95118620bc0054b5a6b370288394d7fa498eaf93b798cd90f6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5d796df2d1e69d95.webp"
+      },
+      {
+       "name": "Copper A",
+       "path": "DimmingField/DimmingField/DimmingField-Copper-A.webp",
+       "size": 3723180,
+       "sha256": "a71c2e9c731453fe9c512110629ced962381196776b669ef4b4ccf3bc03fde0a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a71c2e9c731453fe.webp"
+      },
+      {
+       "name": "Copper B",
+       "path": "DimmingField/DimmingField/DimmingField-Copper-B.webp",
+       "size": 3723178,
+       "sha256": "b32ab9bea0059762eaf3fb1da87153db247d65366400f089eb1cc316fbec1909",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b32ab9bea0059762.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "DimmingField/DimmingField/DimmingField-Gold.webp",
+       "size": 3723180,
+       "sha256": "f9c3c2b89c7ae25ccfcd51b71eb9fbb5b00d1085182a9d8e09a8cca532813c65",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f9c3c2b89c7ae25c.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "DimmingField/DimmingField/DimmingField-Honey.webp",
+       "size": 3723172,
+       "sha256": "243999131ce1559023b23a51311d007a60c09dcf6773a5ee6f43c5990dc084e6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/243999131ce15590.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "DimmingField/DimmingField/DimmingField-Neon.webp",
+       "size": 3723188,
+       "sha256": "8d3b22b9ef1c3369cb984d42d7dbd0637a07062a2c8f217aa8b701ddb4938dd9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8d3b22b9ef1c3369.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "DimmingField/DimmingField/DimmingField-Radio.webp",
+       "size": 3723176,
+       "sha256": "bc4468e725396ed438dfcca1a5a8117a6242054a7c0ca46826b18f2c0c1edd79",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/bc4468e725396ed4.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "DimmingField/DimmingField/DimmingField-Silver.webp",
+       "size": 3050558,
+       "sha256": "67b35ca2e23b672d54b5838741b912abc59575c8be1bf606dffccab70b5a58a7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/67b35ca2e23b672d.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "DimmingField/DimmingField/DimmingField-Sweet.webp",
+       "size": 3723182,
+       "sha256": "b14b237d64eb1f34de5f172f163fd71ee2abec66a0062c980693903f69822901",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b14b237d64eb1f34.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "DimmingField/DimmingField/DimmingField-Titanium.webp",
+       "size": 3633404,
+       "sha256": "29db9d86826a03950054cc6cab5cf969fb60379f181d3093f2a6a9d4b022cb6e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/29db9d86826a0395.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "DriftAloft",
+   "name": "Drift Aloft",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Amethyst.webp",
+       "size": 337114,
+       "sha256": "a945d48629eb7e7eceac3031db5c781ca8dd6336f422c7745fa8123085e6a70b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a945d48629eb7e7e.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Aqua.webp",
+       "size": 274556,
+       "sha256": "89cbcf35dc27e849a91336be910f6818f79b5fb1b38e481063e8c13fb5ec66f6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/89cbcf35dc27e849.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Copper.webp",
+       "size": 287766,
+       "sha256": "3e7bc3e2d56dbec40b67db3f67492cad45369b6b4c3ebb89f1a0e5970502c5af",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3e7bc3e2d56dbec4.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Gold.webp",
+       "size": 284236,
+       "sha256": "3fea1da0e866cf707508290110e8ea9e918e363d59a26111d1f5a885c81ed5b1",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3fea1da0e866cf70.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Neon.webp",
+       "size": 344626,
+       "sha256": "431865607980fe2388bb961178f3e8f2dbce4d739e3d94b506014d950b82d9aa",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/431865607980fe23.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Radio.webp",
+       "size": 240416,
+       "sha256": "5f7637c9842cac8d4ade3eb9b6f9ae1c579916c71381b143dbb300472e4a1714",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5f7637c9842cac8d.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Silver.webp",
+       "size": 152994,
+       "sha256": "3a466a4f58e68604babbdacdc61796b1c27da7ac90bd818eaff525e73735c06e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3a466a4f58e68604.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Sweet.webp",
+       "size": 387176,
+       "sha256": "8b79465a7734f745366277b597757b1296cf4afd5c7bdffd0333152c1ded915e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8b79465a7734f745.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "DriftAloft/DriftAloft/DriftAloft-Titanium.webp",
+       "size": 210414,
+       "sha256": "dbf78b497739e8d7a6dea46ba9aba7564aeb7d1242bf5a60d792ab887ac75cac",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/dbf78b497739e8d7.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Amethyst-WL.webp",
+       "size": 444560,
+       "sha256": "428fa98107129423fe2e15f98056665c0bd63c04f16a647be9065a40ab4fa73f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/428fa98107129423.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Aqua-WL.webp",
+       "size": 375342,
+       "sha256": "9732f6dd33b9ba16777a91ec272d3e3de4499edd395bf69a16b0ae32acf65fe5",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9732f6dd33b9ba16.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Copper-WL.webp",
+       "size": 390362,
+       "sha256": "84350fe9196df5c490b37ec9eaba5681a98a859ce4c90b74ea3b09eea815a1bf",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/84350fe9196df5c4.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Gold-WL.webp",
+       "size": 387442,
+       "sha256": "8ad4e4637e5fce76c75a3369e9e9ec268bde23cfba22966270b4f682c1e3eb13",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8ad4e4637e5fce76.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Neon-WL.webp",
+       "size": 454046,
+       "sha256": "f91d8048040f46156bf8984375a982401f502944479e1237e53f657ce6304631",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f91d8048040f4615.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Radio-WL.webp",
+       "size": 335884,
+       "sha256": "ab16d65644fa442f1a6e6aa0d97cddf132d0eb74f0321bcb14a8cfade805605c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ab16d65644fa442f.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Silver-WL.webp",
+       "size": 215500,
+       "sha256": "803419732b52c43d16874c8083c4dcce58f6d10bdfa61c20d386077ab34dfcf2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/803419732b52c43d.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Sweet-WL.webp",
+       "size": 497446,
+       "sha256": "a361a2a2fc432531a889972723f5b32628bf061f7b114276a282e8a046904451",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a361a2a2fc432531.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "DriftAloft/DriftAloft-WL/DriftAloft-Titanium-WL.webp",
+       "size": 297576,
+       "sha256": "184214f5e3c7cfdd4fbd5d8edeec07681468a72aaed9d7aeba04df86505fe09c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/184214f5e3c7cfdd.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ElementsOfSight",
+   "name": "Elements Of Sight",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "ElementsOfSight/ElementsOfSight/ElementsOfSight-Amethyst.webp",
+       "size": 343262,
+       "sha256": "49bcf885f6984550ee74dbb33984727d20cc010469cb10f8acaeac0e681f62dd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/49bcf885f6984550.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "ElementsOfSight/ElementsOfSight/ElementsOfSight-Aqua.webp",
+       "size": 336660,
+       "sha256": "382ef55359d51f19df8af1441def9c386a0ef47b097af4f258be53864100ea84",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/382ef55359d51f19.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "ElementsOfSight/ElementsOfSight/ElementsOfSight-Copper.webp",
+       "size": 336370,
+       "sha256": "801059f77969b302c04d7573a996461bb757e6c884d15388284545621b100c1e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/801059f77969b302.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "ElementsOfSight/ElementsOfSight/ElementsOfSight-Silver.webp",
+       "size": 236898,
+       "sha256": "7ab81842b75e261cf2658e9c0a1057ecaab8ab28f6574895a291931a6ee1a152",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7ab81842b75e261c.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "ElementsOfSight/ElementsOfSight/ElementsOfSight-Titanium.webp",
+       "size": 258272,
+       "sha256": "52980fb4168669e468864c503b26974af0c2f31fecbb40476d4e7a4641958034",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/52980fb4168669e4.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Text Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "ElementsOfSight/ElementsOfSight-WTL/ElementsOfSight-Amethyst-WTL.webp",
+       "size": 297480,
+       "sha256": "5e7b61036882a882601ac07554ed143c57cb4e77370ff0bf23b0eb27bdb728fc",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5e7b61036882a882.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "ElementsOfSight/ElementsOfSight-WTL/ElementsOfSight-Aqua-WTL.webp",
+       "size": 397906,
+       "sha256": "5ba9f19bee512703215f6b49f3e68e3577c851acdc9bee0affd0c833cf4be5f8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5ba9f19bee512703.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "ElementsOfSight/ElementsOfSight-WTL/ElementsOfSight-Copper-WTL.webp",
+       "size": 402708,
+       "sha256": "ff1c195983256a217cddab87bd8d72e3db0118a12b7c43f2e6d34cac9fd5c63e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ff1c195983256a21.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "ElementsOfSight/ElementsOfSight-WTL/ElementsOfSight-Silver-WTL.webp",
+       "size": 260130,
+       "sha256": "5c6afe00b429852b56ff96b2fc4684ddd0f836fa55e71b4d5f48bf86b661fde9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5c6afe00b429852b.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "ElementsOfSight/ElementsOfSight-WTL/ElementsOfSight-Titanium-WTL.webp",
+       "size": 287244,
+       "sha256": "a6de1e43acca6321284c34f2e6da3bd736d40954c1b105dfe7d5f807332f7fa2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a6de1e43acca6321.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FeelingRough",
+   "name": "Feeling Rough",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Logo",
+       "path": "FeelingRough/FeelingRough/FeelingRough-Logo.webp",
+       "size": 4489920,
+       "sha256": "8c6fb30a2b047ffb7e5e6b04ca9dd98e54fbddd455d6b2fcc555c85005ac8fbd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8c6fb30a2b047ffb.webp"
+      },
+      {
+       "name": "FeelingRough",
+       "path": "FeelingRough/FeelingRough/FeelingRough.webp",
+       "size": 4452098,
+       "sha256": "650ea46000d14a24d78744bc4db85319723e5343e9be4458e44c986c706b6178",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/650ea46000d14a24.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FeelsLikeFlying",
+   "name": "Feels Like Flying",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Bold",
+       "path": "FeelsLikeFlying/FeelsLikeFlying/FeelsLikeFlying-Bold.webp",
+       "size": 166992,
+       "sha256": "d1e7e06ca36f6c51c24267aec8ce3ef7d1e5ddc0e66336c66aed353e6d8e8252",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d1e7e06ca36f6c51.webp"
+      },
+      {
+       "name": "Thin",
+       "path": "FeelsLikeFlying/FeelsLikeFlying/FeelsLikeFlying-Thin.webp",
+       "size": 179370,
+       "sha256": "8639701b80a5a244c538dd068ec222961518e5d377c3ecb28d8bba3b6e6bc873",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8639701b80a5a244.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "HereThereAndEverywhere",
+   "name": "Here There And Everywhere",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Original Colors",
+     "items": [
+      {
+       "name": "Alt A",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere/HereThereAndEverywhere-Alt-A.webp",
+       "size": 95234,
+       "sha256": "524994b8cd78b50e668426d988c40665d0fe6d1eea5230558e5d66bacc8f6859",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/524994b8cd78b50e.webp"
+      },
+      {
+       "name": "Alt B",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere/HereThereAndEverywhere-Alt-B.webp",
+       "size": 259636,
+       "sha256": "eb3224e166148ff2bf710448cd2f95d45853c69d7f1c00b4c23bb527a85ec6b1",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/eb3224e166148ff2.webp"
+      },
+      {
+       "name": "Alt C",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere/HereThereAndEverywhere-Alt-C.webp",
+       "size": 1902636,
+       "sha256": "ed27ed8e9ccaac5ba2f18f8679c08031a19133d5c0dca50abc43d0523f3def75",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ed27ed8e9ccaac5b.webp"
+      },
+      {
+       "name": "No Particles",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere/HereThereAndEverywhere-WNP.webp",
+       "size": 1339638,
+       "sha256": "02335a3e4b8938b5e3e9b7974d145511437c3398a1a270785d5b6f938e3cde38",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/02335a3e4b8938b5.webp"
+      },
+      {
+       "name": "HereThereAndEverywhere",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere/HereThereAndEverywhere.webp",
+       "size": 1407848,
+       "sha256": "6ee2e253cb60593efc5741b3752586ca8092b8c1e453519e327fc3b693c5b9d5",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6ee2e253cb60593e.webp"
+      }
+     ]
+    },
+    {
+     "name": "Colors",
+     "items": [
+      {
+       "name": "Amethyst A",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Amethyst-A.webp",
+       "size": 588678,
+       "sha256": "67bbeaef07ead8d224559d39131183d29c43b872b6520fb56d5743e2499b5698",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/67bbeaef07ead8d2.webp"
+      },
+      {
+       "name": "Amethyst B",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Amethyst-B.webp",
+       "size": 588696,
+       "sha256": "fc6f12077c4f3a2970d0fd1c5442583202254849a94c934ed32847a154fd5b7b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/fc6f12077c4f3a29.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Aqua.webp",
+       "size": 588684,
+       "sha256": "6c616c987e2f5333c48114a445841aca1fccb8f8f3c0be59fed689ec2aa036ec",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6c616c987e2f5333.webp"
+      },
+      {
+       "name": "Copper A",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Copper-A.webp",
+       "size": 588704,
+       "sha256": "76a63f30fec2beab91bf04c359e429b0dff997b8fa01ed6357ca86fa98ac2163",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/76a63f30fec2beab.webp"
+      },
+      {
+       "name": "Copper B",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Copper-B.webp",
+       "size": 588668,
+       "sha256": "93b27bf93c4ac088b49868eef2377d9c37f18aa710e690efcb3c75039ad41d59",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/93b27bf93c4ac088.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Gold.webp",
+       "size": 588724,
+       "sha256": "3ceaeba8b5aa0acf0fe669ca23a57d9e11bf22da8a997ca783514abed0224c0d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3ceaeba8b5aa0acf.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Honey.webp",
+       "size": 588718,
+       "sha256": "a70c62f2ea9cccb6b6fff7f7973cfdbf82ea7e0b010299ab9f33e3df914786ff",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a70c62f2ea9cccb6.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Neon.webp",
+       "size": 588706,
+       "sha256": "70a5b3ec043eae25305565e6d2084dcb61ceb14e7b7820f20e2dea0aa26e9b2f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/70a5b3ec043eae25.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Radio.webp",
+       "size": 588662,
+       "sha256": "91677b603a37f54a257b019dcb2c570fbb208f17b11f6d48701f2e7d1c9a0dcb",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/91677b603a37f54a.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Silver.webp",
+       "size": 588634,
+       "sha256": "a96bd49f74acb6ed85090aa49144b7772c33f0d1221ee883977f5406024ee97c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a96bd49f74acb6ed.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Sweet.webp",
+       "size": 588692,
+       "sha256": "67eb476397a11ad3861256938a38599e8ea00f42ca65c54ddb6d11d10aa8fca1",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/67eb476397a11ad3.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored/HereThereAndEverywhere-Titanium.webp",
+       "size": 588680,
+       "sha256": "c0afc41746a6cc21ef26337366e5ef57c770ffe36042472573411e2b0ede1c19",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c0afc41746a6cc21.webp"
+      }
+     ]
+    },
+    {
+     "name": "Colors Glow",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Amethyst.webp",
+       "size": 836676,
+       "sha256": "f8b14d5264dc31173166edf8cd2b87acc10d4d14dda2a4ddd0a27ee37bffd049",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f8b14d5264dc3117.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Aqua.webp",
+       "size": 836674,
+       "sha256": "a5095d7de6cfe3f2246aaa0ba35cb7ece8ab645da314751105a9cd3e4894dd85",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a5095d7de6cfe3f2.webp"
+      },
+      {
+       "name": "Copper A",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Copper-A.webp",
+       "size": 836702,
+       "sha256": "a4ead09c1275e909f7ac698dc24f4bf480d7552a4bdc387f07d399ad84f6403b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a4ead09c1275e909.webp"
+      },
+      {
+       "name": "Copper B",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Copper-B.webp",
+       "size": 836658,
+       "sha256": "0aaa535078a38ec71f77d496f4beb9b40bc2d705b00495cd73ec07962394013e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/0aaa535078a38ec7.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Gold.webp",
+       "size": 836714,
+       "sha256": "69f38ca2deb59072a2279a21347ba0b1b4d1eb3604702136b4966a026c980b4c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/69f38ca2deb59072.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Honey.webp",
+       "size": 836708,
+       "sha256": "d9d0faaba5b54fbd8a28cca9defb5be2cbd9ddf2b59b323c3568ee2b6b0866d7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d9d0faaba5b54fbd.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Neon.webp",
+       "size": 836696,
+       "sha256": "f8065352b931ab15ddd67e967b28ee8edd849090697c4d810f9f27e000a5a9cd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f8065352b931ab15.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Radio.webp",
+       "size": 836652,
+       "sha256": "afdae4ef291574ca5afd58f0943fa3d41177ea377014bfc63f8a9305b6a4de7b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/afdae4ef291574ca.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Silver.webp",
+       "size": 836624,
+       "sha256": "946a24a345b68e8ffdf9046f2da0bcc5c80c3c3059e448021e3f28f8ce44f391",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/946a24a345b68e8f.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Sweet.webp",
+       "size": 836682,
+       "sha256": "27a93b1d7e3417094253aaeb69a5ef6481c71a10795d30a73a0aa9d5c94155a2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/27a93b1d7e341709.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "HereThereAndEverywhere/HereThereAndEverywhere-Colored-Alt/HereThereAndEverywhere-Colored-Alt-Titanium.webp",
+       "size": 836670,
+       "sha256": "2b90e517e3e3da006c72864355ce7a7f6ad595346405c632a449ec807528b57b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2b90e517e3e3da00.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Innuendos",
+   "name": "Innuendos",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Dark",
+     "items": [
+      {
+       "name": "Innuere Dark Amethyst",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Amethyst.webp",
+       "size": 1250492,
+       "sha256": "241a35fba6ed6826c783907baa82bce59ea4311a7d8df6676a9f35f34b361a63",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/241a35fba6ed6826.webp"
+      },
+      {
+       "name": "Innuere Dark Aqua",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Aqua.webp",
+       "size": 1188616,
+       "sha256": "ebd9dbac8f4b4db9a6dd103b51ccaad722fc8763a11519302d37dcd169822c74",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ebd9dbac8f4b4db9.webp"
+      },
+      {
+       "name": "Innuere Dark Copper",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Copper.webp",
+       "size": 1191074,
+       "sha256": "10f55e286f27ef96b8710fda8d91be8458820d39ca696ff3b7359f464a924a9d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/10f55e286f27ef96.webp"
+      },
+      {
+       "name": "Innuere Dark Gold",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Gold.webp",
+       "size": 1269494,
+       "sha256": "ccd8c2555de89ec921ffa23de6d34b5cf3e5ba68a2bb0006b2a082b069b4f47b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ccd8c2555de89ec9.webp"
+      },
+      {
+       "name": "Innuere Dark Radio",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Radio.webp",
+       "size": 1245764,
+       "sha256": "90f957744e97554082495a2ae3b06c56eb448cd095efe9f36b3a1abe4b7c0fa7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/90f957744e975540.webp"
+      },
+      {
+       "name": "Innuere Dark Silver",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Silver.webp",
+       "size": 1132124,
+       "sha256": "220e263f0abc72da393f4f1b8471fc7be2a82b66b080f0b9a4205245d933b56f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/220e263f0abc72da.webp"
+      },
+      {
+       "name": "Innuere Dark Titanium",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark-Titanium.webp",
+       "size": 1151004,
+       "sha256": "7bf4d89eb50d1da230a7650221eeebcdeab2bc997b9e4a414f8c25dca98ca752",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7bf4d89eb50d1da2.webp"
+      },
+      {
+       "name": "Innuere",
+       "path": "Innuendos/Innuendos-Dark/Innuere-Dark.webp",
+       "size": 1341458,
+       "sha256": "2c1b8d73eee2e37e03b81c9a31bbf9e853e169771e8d7c397fe7d210ecd1fcb0",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2c1b8d73eee2e37e.webp"
+      }
+     ]
+    },
+    {
+     "name": "Light",
+     "items": [
+      {
+       "name": "Innuere Light Amethyst",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Amethyst.webp",
+       "size": 383096,
+       "sha256": "80d23aa34b6301ef796690b07cddc638e9d3e0387d50897945e4f415fb7edd44",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/80d23aa34b6301ef.webp"
+      },
+      {
+       "name": "Innuere Light Aqua",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Aqua.webp",
+       "size": 342360,
+       "sha256": "5d444e11d5d6729fc1afb047b39d7cde91a0d4ff474ba6e78925855f72b7cfb0",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5d444e11d5d6729f.webp"
+      },
+      {
+       "name": "Innuere Light Copper",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Copper.webp",
+       "size": 347050,
+       "sha256": "e4c9d5435bfad70ffc9f65020d9dc1eb6c0a47d078fdc6df4bc23e21cebb62fa",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e4c9d5435bfad70f.webp"
+      },
+      {
+       "name": "Innuere Light Gold",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Gold.webp",
+       "size": 400782,
+       "sha256": "9478e070ad9326c5ed26037296530c1570a8b9141b7f6acf52959f343358d246",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9478e070ad9326c5.webp"
+      },
+      {
+       "name": "Innuere Light Radio",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Radio.webp",
+       "size": 378856,
+       "sha256": "34db4e2613fbaf6e7061a2542b516bb07674b98dfb7ad1190a8929dfc8735163",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/34db4e2613fbaf6e.webp"
+      },
+      {
+       "name": "Innuere Light Silver",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Silver.webp",
+       "size": 278212,
+       "sha256": "1ac22a701ccf406566e74309ebba6c308bf81416fa0679a0d577ed549c77697e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1ac22a701ccf4065.webp"
+      },
+      {
+       "name": "Innuere Light Titanium",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light-Titanium.webp",
+       "size": 294056,
+       "sha256": "5df130b5d6a64381decb06b2d7b4a5d9124c50cfcab558ae4086ad3556d34658",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5df130b5d6a64381.webp"
+      },
+      {
+       "name": "Innuere",
+       "path": "Innuendos/Innuendos-Light/Innuere-Light.webp",
+       "size": 322166,
+       "sha256": "4cf5861b19d0879f3913d5c2728c63e9f80dd0e74d83cc489f98053e9670d10b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4cf5861b19d0879f.webp"
+      }
+     ]
+    },
+    {
+     "name": "Revisited Dark",
+     "items": [
+      {
+       "name": "Innuere Rev Dark Amethyst",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Amethyst.webp",
+       "size": 879922,
+       "sha256": "71453b9ae9b2e24ad056c498a29d7717ab6cab08dec9f5251abd1780733d332c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/71453b9ae9b2e24a.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Aqua",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Aqua.webp",
+       "size": 843036,
+       "sha256": "5d321f31efb46ac28845aa91a106b43a86a3c4fe329cb4cade034f0bfbbd3d5a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5d321f31efb46ac2.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Copper",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Copper.webp",
+       "size": 861524,
+       "sha256": "64755d30d1fcf21fd9a2e6fdebf81eaa1c6e1f15b40bd06f75036e9d62ccb9dd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/64755d30d1fcf21f.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Gold",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Gold.webp",
+       "size": 871268,
+       "sha256": "394bcdd9dc1ce54f65f3561fab934a0ece00adb327f99c73c3ed485edf4d1ac4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/394bcdd9dc1ce54f.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Honey",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Honey.webp",
+       "size": 877142,
+       "sha256": "db4bd6f1a5ae1ed12f0136a94f936559e25c57e6cf2cf176b44e2ae83e359380",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/db4bd6f1a5ae1ed1.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Neon",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Neon.webp",
+       "size": 883930,
+       "sha256": "59ac70e55f02c53d628bfff97c22bfb9b60dccdfb73a06d721f1aaf05e5f29a9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/59ac70e55f02c53d.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Radio",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Radio.webp",
+       "size": 846938,
+       "sha256": "5913e580c542ac900fcbebc279a7dbb9ea4ea5b7e20a5a2623394f778068fb0f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5913e580c542ac90.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Silver",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Silver.webp",
+       "size": 826376,
+       "sha256": "2cd564c8a610026af7ad544c6c7a35fb3eca6318b7621c78cbc001ac2d36b96c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2cd564c8a610026a.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Sweet",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Sweet.webp",
+       "size": 847068,
+       "sha256": "e4bd62317c397d8c15beda7c8ad15e3e1a1ddd8d7d791e23332576edc54d4883",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e4bd62317c397d8c.webp"
+      },
+      {
+       "name": "Innuere Rev Dark Titanium",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark-Titanium.webp",
+       "size": 842314,
+       "sha256": "11e4e308bd0951ba49680a30ec6cf9b09fce460f477c495ce6a27e1106680aa4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/11e4e308bd0951ba.webp"
+      },
+      {
+       "name": "Innuere Rev Dark",
+       "path": "Innuendos/Innuendos-Revisited-Dark/Innuere-Rev-Dark.webp",
+       "size": 1128972,
+       "sha256": "f48f8167d9915e0891fce7749e282ad72c3559196deba96355f4daea973dd1a6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f48f8167d9915e08.webp"
+      }
+     ]
+    },
+    {
+     "name": "Revisited Light",
+     "items": [
+      {
+       "name": "Innuere Rev Light ",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-.webp",
+       "size": 839752,
+       "sha256": "b41c83ef35e8b456b88622fd63663469697f82354e1a0700db507aa2dc64c756",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b41c83ef35e8b456.webp"
+      },
+      {
+       "name": "Innuere Rev Light Amethyst",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Amethyst.webp",
+       "size": 591718,
+       "sha256": "90f7546ce8e297d24760f2203b18ba8d46640674ac2c56c919d9428a6463ed6c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/90f7546ce8e297d2.webp"
+      },
+      {
+       "name": "Innuere Rev Light Aqua",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Aqua.webp",
+       "size": 562978,
+       "sha256": "85c3b659bdbbf61c184698146857360c0c69d0fb8398f2dd0f5d924c5cef2929",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/85c3b659bdbbf61c.webp"
+      },
+      {
+       "name": "Innuere Rev Light Copper",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Copper.webp",
+       "size": 579452,
+       "sha256": "9a0bf1d3f1cad0ba51168e3b5814462abc26b300bef4a0b60172708bc4e742b6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9a0bf1d3f1cad0ba.webp"
+      },
+      {
+       "name": "Innuere Rev Light Gold",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Gold.webp",
+       "size": 587522,
+       "sha256": "c43c4da23602a50520a742b2ddc8a57f04fba482501555e1ece53c23be87eea0",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c43c4da23602a505.webp"
+      },
+      {
+       "name": "Innuere Rev Light Honey",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Honey.webp",
+       "size": 594546,
+       "sha256": "277b27fcf1aea9dc85c1b955b695eb7c3d1f35e431a30d025b337847d882442d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/277b27fcf1aea9dc.webp"
+      },
+      {
+       "name": "Innuere Rev Light Neon",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Neon.webp",
+       "size": 595276,
+       "sha256": "7d91e1463692f8bc5227378b2f6901f324524b12a2850b046a17fc411c073be2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7d91e1463692f8bc.webp"
+      },
+      {
+       "name": "Innuere Rev Light Radio",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Radio.webp",
+       "size": 559458,
+       "sha256": "dc4bd260cc1701df1dbd9d604916a13f2ae3fcdd6bc2559d95380ec5ee0358d8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/dc4bd260cc1701df.webp"
+      },
+      {
+       "name": "Innuere Rev Light Silver",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Silver.webp",
+       "size": 546728,
+       "sha256": "03bfdd740d47572aa94482af763fa318b9f803c881aaf5e926abec84ae4e4253",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/03bfdd740d47572a.webp"
+      },
+      {
+       "name": "Innuere Rev Light Sweet",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Sweet.webp",
+       "size": 565248,
+       "sha256": "49a40bc0d8035193b2ee44547213ea656857c21987aba8507322d7ca13967a43",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/49a40bc0d8035193.webp"
+      },
+      {
+       "name": "Innuere Rev Light Titanium",
+       "path": "Innuendos/Innuendos-Revisited-Light/Innuere-Rev-Light-Titanium.webp",
+       "size": 559156,
+       "sha256": "226d1a5dba20a1e69f63421bc31e658846f1d25e373cc83e82bcd52e27d73325",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/226d1a5dba20a1e6.webp"
+      }
+     ]
+    },
+    {
+     "name": "Revisited Light Tinted",
+     "items": [
+      {
+       "name": "Innuere Rev Light Alt Amethyst",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Amethyst.webp",
+       "size": 559450,
+       "sha256": "c6cb92d9dd5f72a92d94083ae408d74332ddf1d14c19d0f52757da923eb3bb65",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c6cb92d9dd5f72a9.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Aqua",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Aqua.webp",
+       "size": 550742,
+       "sha256": "1c6082871daeabf3ce3c88cfbc95c92c7cf3393d5ba7bafe1a7f97531d914afb",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1c6082871daeabf3.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Copper",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Copper.webp",
+       "size": 521998,
+       "sha256": "eeabc84f7d0da065b1fd13575f120033885e69c475e22c2ec46285dc0c634df4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/eeabc84f7d0da065.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Gold",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Gold.webp",
+       "size": 575896,
+       "sha256": "5f6224903f8a1926b4024ffcc19aac6957a022923ca5e1ceddb1bf46aa53ebe8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5f6224903f8a1926.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Honey",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Honey.webp",
+       "size": 551558,
+       "sha256": "b4729380034fe9ad25a869cab9bd096dd0465a65cacb9acf3c9563126e796146",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b4729380034fe9ad.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Neon",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Neon.webp",
+       "size": 566276,
+       "sha256": "2caf81b487245b27e518bff9cd7106a4fd3741db2864f4dcac60917d3aca5ad4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2caf81b487245b27.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Radio",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Radio.webp",
+       "size": 565284,
+       "sha256": "071e7a87a027d244261fe65b40efa16680808aacd79577368df1152446e7177d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/071e7a87a027d244.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Silver",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Silver.webp",
+       "size": 475230,
+       "sha256": "08171e5856509e98850f55772b87575d1b6923009d35ec02b9dcf74b5d3efefa",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/08171e5856509e98.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Sweet",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Sweet.webp",
+       "size": 469204,
+       "sha256": "39c6fa2fe17c715db318c82b41e2aa9e25559e1dd2395b99fb425fd55afe2870",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/39c6fa2fe17c715d.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt Titanium",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt-Titanium.webp",
+       "size": 525432,
+       "sha256": "8d063a4318fcbaa52c87eebed62d2d0ae62db28dcf4a2f50f1c1a368958c6c27",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8d063a4318fcbaa5.webp"
+      },
+      {
+       "name": "Innuere Rev Light Alt",
+       "path": "Innuendos/Innuendos-Revisited-Light-Alt/Innuere-Rev-Light-Alt.webp",
+       "size": 839752,
+       "sha256": "b41c83ef35e8b456b88622fd63663469697f82354e1a0700db507aa2dc64c756",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b41c83ef35e8b456.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "KeepDreaming",
+   "name": "Keep Dreaming",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Amethyst.webp",
+       "size": 586080,
+       "sha256": "755b911409e278a2c1536631e6661efbd09ab48b36fb0e707373167bca839854",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/755b911409e278a2.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Aqua.webp",
+       "size": 621576,
+       "sha256": "d1e324ea9f018042b0521cf5d9d149faf32de5388bda4defa147b5aeac3487ab",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d1e324ea9f018042.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Copper.webp",
+       "size": 612924,
+       "sha256": "f46451ad2b24b69ced5f7e51b89f3758c67e6d47704c4dcb5de53b718d394562",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f46451ad2b24b69c.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Gold.webp",
+       "size": 659546,
+       "sha256": "3a56d68a702ffab80e0f6d215f38036f5572d42b180eff9177740b64db84c9d3",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3a56d68a702ffab8.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Neon.webp",
+       "size": 964454,
+       "sha256": "a74ea08b6a6f4e7b02c0e275e93c0bfb326832570920d04d90038c2739e384e3",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a74ea08b6a6f4e7b.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Radio.webp",
+       "size": 659576,
+       "sha256": "4228d73df4f3cae6be1a7b8f117914eb5d45064770cb8345dc89a0a95b097e0c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4228d73df4f3cae6.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Silver.webp",
+       "size": 462764,
+       "sha256": "4c5047f9391a33a56bda0c7946c4bafacf09066c86feb125531a1d13da7990eb",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4c5047f9391a33a5.webp"
+      },
+      {
+       "name": "Sweet A",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Sweet-A.webp",
+       "size": 955784,
+       "sha256": "a03e19c1a76f3b6257e64d7361c44f1ac61d3875b56076400946aefbad8c5d8c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a03e19c1a76f3b62.webp"
+      },
+      {
+       "name": "Sweet B",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Sweet-B.webp",
+       "size": 1015542,
+       "sha256": "369098220df717fbbdad0fdd6cf21c2e57f16fc2e74a6ad8b787266af083f9a7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/369098220df717fb.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "KeepDreaming/KeepDreaming/KeepDreaming-Titanium.webp",
+       "size": 577452,
+       "sha256": "73bd073f131209f9979b037aadcd14185d58f6b8ed2c679f3501a2e2c7b76a14",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/73bd073f131209f9.webp"
+      }
+     ]
+    },
+    {
+     "name": "With Logo",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Amethyst-WL.webp",
+       "size": 618366,
+       "sha256": "d51ed358804469089730f29584c8a1db86228d93a7f0f3370ffda0e0997b7d50",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d51ed35880446908.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Aqua-WL.webp",
+       "size": 650580,
+       "sha256": "610e6747e8f63a893c855b3aa23939f5e569786bd349c1d6d18906d6fa9afeac",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/610e6747e8f63a89.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Copper-WL.webp",
+       "size": 640014,
+       "sha256": "00993923151257e8aeeca1afd863f54adf2da1182c7c1e0f773fc899a18476ef",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/00993923151257e8.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Gold-WL.webp",
+       "size": 769634,
+       "sha256": "a8d7a705d84956efe62c722fdad1d3959d57e29f582fd6c05d94ef96c3e19cad",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a8d7a705d84956ef.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Neon-WL.webp",
+       "size": 996996,
+       "sha256": "304f37f9f2eba8f050b32f04db74612b24901214c9b2f5e2d4b3757ce6fad1e2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/304f37f9f2eba8f0.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Radio-WL.webp",
+       "size": 758454,
+       "sha256": "f280b8dcb7d130e17aa13f99827a2c2eac55eabb8687f216ad7b033018d45a60",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/f280b8dcb7d130e1.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Silver-WL.webp",
+       "size": 484882,
+       "sha256": "708745abc511dcc9ce73b13017b1c090119db0a2e150ef946d793725ca0e4d9c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/708745abc511dcc9.webp"
+      },
+      {
+       "name": "Sweet A",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Sweet-A-WL.webp",
+       "size": 977524,
+       "sha256": "96cb7eb7d17660f54874848d1f76df9fd0c3d14827ef2ee777dececd52952a93",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/96cb7eb7d17660f5.webp"
+      },
+      {
+       "name": "Sweet B",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Sweet-B-WL.webp",
+       "size": 1046274,
+       "sha256": "5363d050cfc66c857c247da1d8e313455060e8b35151180af49905515b3ba4c8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5363d050cfc66c85.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "KeepDreaming/KeepDreaming-WL/KeepDreaming-Titanium-WL.webp",
+       "size": 605812,
+       "sha256": "448c167904388826364feff22e8134414fcdaa6db7ba6d04994833483aca81c4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/448c167904388826.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MadeInEden",
+   "name": "Made In Eden",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "With Logo",
+       "path": "MadeInEden/MadeInEden/MadeInEden-WL.webp",
+       "size": 1868136,
+       "sha256": "eab4ee7836a76f510037934f2fad87b7f14c6316758f1b81012fada34b30af61",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/eab4ee7836a76f51.webp"
+      },
+      {
+       "name": "No Particles With Logo",
+       "path": "MadeInEden/MadeInEden/MadeInEden-WNP-WL.webp",
+       "size": 1407878,
+       "sha256": "10401b5638c4f6ef2e16fd2d275718a68ce79b185b8095ef78700883a525aa03",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/10401b5638c4f6ef.webp"
+      },
+      {
+       "name": "No Text Logo No Particles",
+       "path": "MadeInEden/MadeInEden/MadeInEden-WNTL-WNP.webp",
+       "size": 1396614,
+       "sha256": "80dd6c2911266f553302cd1b7057cab12412d2ebe78fd66d8f07c28d9d1233f3",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/80dd6c2911266f55.webp"
+      },
+      {
+       "name": "No Text Logo",
+       "path": "MadeInEden/MadeInEden/MadeInEden-WNTL.webp",
+       "size": 1947634,
+       "sha256": "280b6b6d1275b4df1a6c1ef66d1052393922b2a6cf2ae164e0bc856a46a026cd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/280b6b6d1275b4df.webp"
+      }
+     ]
+    },
+    {
+     "name": "Nord Palette",
+     "items": [
+      {
+       "name": "No Particles With Logo",
+       "path": "MadeInEden/MadeInEden-Nord/MadeInEden-Nord-WNP-WL.webp",
+       "size": 1260364,
+       "sha256": "91e55eab3f4a4b07ff12a079747f06b3b7ab7d87dbff604edaf84a11e33fb839",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/91e55eab3f4a4b07.webp"
+      },
+      {
+       "name": "No Text Logo No Particles",
+       "path": "MadeInEden/MadeInEden-Nord/MadeInEden-Nord-WNTL-WNP.webp",
+       "size": 1268000,
+       "sha256": "17a0761e669313f8d5bd11cf3872545c4283387d725376088ee90adbde7c5180",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/17a0761e669313f8.webp"
+      },
+      {
+       "name": "No Text Logo",
+       "path": "MadeInEden/MadeInEden-Nord/MadeInEden-Nord-WNTL.webp",
+       "size": 1890696,
+       "sha256": "7b24ed23208ff1cd178210154ce5303fba3ac4d07a8cd17ad494f3279e7970f6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7b24ed23208ff1cd.webp"
+      },
+      {
+       "name": "Nord",
+       "path": "MadeInEden/MadeInEden-Nord/MadeInEden-Nord.webp",
+       "size": 1804672,
+       "sha256": "6f8dc07a43f98d04c2bfd4c90e00e4d66be5cea8262486a36063153e6a26ad04",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6f8dc07a43f98d04.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "OfEtherealSights",
+   "name": "Of Ethereal Sights",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Amethyst.webp",
+       "size": 667104,
+       "sha256": "3d3bc5f585371582fcff15b8af8cfa6a87e300b35a3969e741f7fcc381fad997",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3d3bc5f585371582.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Aqua.webp",
+       "size": 661012,
+       "sha256": "17b5d66ea93d1eacd9034d8fc918447e19cdde2b36051fb2f47f66906ec28a27",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/17b5d66ea93d1eac.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Copper.webp",
+       "size": 634334,
+       "sha256": "7b1c65130ed746af9fb3f1f99c5feb46fc91fd56b610027b77cedf57ffa82b31",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7b1c65130ed746af.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Gold.webp",
+       "size": 672356,
+       "sha256": "92d96e9644c0c7a567b6273d7601d062cb8ee9191e6611525f19bbc1b0772a80",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/92d96e9644c0c7a5.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Neon.webp",
+       "size": 640504,
+       "sha256": "5cbe9b27da7540893ba5370693a2fc729f10201593fe40293f0158e5ceb577cb",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5cbe9b27da754089.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Radio.webp",
+       "size": 644442,
+       "sha256": "fe3b92c89ec9abbbd3289ce57340501b1a7a200c575322db333a858f68725157",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/fe3b92c89ec9abbb.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Silver.webp",
+       "size": 408454,
+       "sha256": "c239b0425cbbec53dd25bc9224a5999943ea9457fa232bac9274ef038c623e86",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c239b0425cbbec53.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "OfEtherealSights/OfEtherealSights/OfEtherealSights-Titanium.webp",
+       "size": 626470,
+       "sha256": "24725f2e563e6ed5453e4d77d04ba0868aefcf862112e7627661f6f48a30ffa5",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/24725f2e563e6ed5.webp"
+      },
+      {
+       "name": "WithBatheSlumblers",
+       "path": "OfEtherealSights/OfEtherealSights/WithBatheSlumblers.webp",
+       "size": 704732,
+       "sha256": "d36d6a8ec936fcbdf60d51786999f454a00bb25f2dad5e01766c3240b2ef8d83",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d36d6a8ec936fcbd.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "PlasmaForNoOne",
+   "name": "Plasma For No One",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Amethyst.webp",
+       "size": 949740,
+       "sha256": "bb328d44f0553adf9350dd4f5354be54e248ed996567b46d805866dde29e6db7",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/bb328d44f0553adf.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Aqua.webp",
+       "size": 949780,
+       "sha256": "683ddba387e7191fd9ebba8f6075d9eea0899050dc73f1a087976d456d4c87d0",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/683ddba387e7191f.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Copper.webp",
+       "size": 949774,
+       "sha256": "9098849147f7099fe4ebccbf3e95c03b31368684ab079cc408e9f2bf12135b06",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/9098849147f7099f.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Gold.webp",
+       "size": 949752,
+       "sha256": "503ac5e66032207a702c65d83ba94fb15f5bfd8565c4f2f9c40e4de0e25e9cb5",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/503ac5e66032207a.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Honey.webp",
+       "size": 949776,
+       "sha256": "8cf09f47b5d4219690308e3b17f347839c1a2ac7ca190056aa7270d4bdc700b5",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/8cf09f47b5d42196.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Neon.webp",
+       "size": 949744,
+       "sha256": "81990838885882052729c6aef27bf3e0d9c67daaac05b889ae33ef3a29224189",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/8199083888588205.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Radio.webp",
+       "size": 949758,
+       "sha256": "c89d5a857d77c5d6fd24b7415ce6edc8d5838e96250bbbe0117fbb6fd6d3896d",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/c89d5a857d77c5d6.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Silver.webp",
+       "size": 949724,
+       "sha256": "9fe44ac87c606a79f5d7676c4e1ae32afa207c7ac25aea44045e1821c0de237b",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/9fe44ac87c606a79.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Sweet.webp",
+       "size": 949740,
+       "sha256": "05166c841afcd304f0ec0ea254a705d2d66fb84200c85a0832bf481b837b155a",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/05166c841afcd304.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "PlasmaForNoOne/PlasmaForNoOne/PlasmaForNoOne-Titanium.webp",
+       "size": 949760,
+       "sha256": "27cbfb0122a9a7f44634b75dde2bcbecaf471cda91d869be5dd06c4c49444dcd",
+       "width": 1080,
+       "height": 1920,
+       "preview": "previews/27cbfb0122a9a7f4.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "RestlessStars",
+   "name": "Restless Stars",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Default",
+     "items": [
+      {
+       "name": "Dark",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Dark.webp",
+       "size": 1247554,
+       "sha256": "03d0fe04765b9df01bef4cec3aa0c9284b31b7e6039ec46add9edfdb9812ac78",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/03d0fe04765b9df0.webp"
+      },
+      {
+       "name": "Homescreen Dark",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Homescreen-Dark.webp",
+       "size": 1242634,
+       "sha256": "b4a593f56151b3636dffbd43220246f7fb4a0f54b2fba713aa547c6e9a2cb4ae",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b4a593f56151b363.webp"
+      },
+      {
+       "name": "Homescreen Light",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Homescreen-Light.webp",
+       "size": 1301874,
+       "sha256": "c0b124c0cb20285adbc078ae2f161a86675ea63e22a9306954246e346902d518",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/c0b124c0cb20285a.webp"
+      },
+      {
+       "name": "Light",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Light.webp",
+       "size": 1068376,
+       "sha256": "327e1ac5aa256c0a37b19ef63d2d1b8a6fb98a7d43abca071aa6833a10b505be",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/327e1ac5aa256c0a.webp"
+      },
+      {
+       "name": "Lockscreen Dark",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Lockscreen-Dark.webp",
+       "size": 1257708,
+       "sha256": "d34c8b0202c0295e0bd913e5f155e433c1adc02e226ae84b0fde3c6e861a477c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d34c8b0202c0295e.webp"
+      },
+      {
+       "name": "Lockscreen Light",
+       "path": "RestlessStars/RestlessStars/RestlessStars-Lockscreen-Light.webp",
+       "size": 1048806,
+       "sha256": "60a488acf072b6b309852d9faa6e6e6b7c754ddaf3201c92eae7b335c4dc130a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/60a488acf072b6b3.webp"
+      }
+     ]
+    },
+    {
+     "name": "V2",
+     "items": [
+      {
+       "name": "Dark",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Dark-V2.webp",
+       "size": 1020592,
+       "sha256": "3086e10d8c1f2bf470e16f56e6d30b5ccf05b0e11469ee282dc9b14aec572eed",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3086e10d8c1f2bf4.webp"
+      },
+      {
+       "name": "Homescreen Dark",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Homescreen-Dark-V2.webp",
+       "size": 1026824,
+       "sha256": "ef6050fc66043f0d2237b55f30d3c10dd22c5504eb6468a80a7eff66ef09a03b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ef6050fc66043f0d.webp"
+      },
+      {
+       "name": "Homescreen Light",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Homescreen-Light-V2.webp",
+       "size": 898050,
+       "sha256": "3c8ac13a13749375d1853c5eedc29a03201805e1a1cacd219ba7997d77c59396",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3c8ac13a13749375.webp"
+      },
+      {
+       "name": "Light",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Light-V2.webp",
+       "size": 891666,
+       "sha256": "1a5fdd7711ebc86f602b5640daac66f9f77d538364246249e1338a884233fc39",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1a5fdd7711ebc86f.webp"
+      },
+      {
+       "name": "Lockscreen Dark",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Lockscreen-Dark-V2.webp",
+       "size": 1035680,
+       "sha256": "3027c3d37a506a939102973798578a555a4ac01708f18b5e8fca675bfcde7b0a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3027c3d37a506a93.webp"
+      },
+      {
+       "name": "Lockscreen Light",
+       "path": "RestlessStars/RestlessStars-V2/RestlessStars-Lockscreen-Light-V2.webp",
+       "size": 905202,
+       "sha256": "eb1cfe0d11d3ef5cffac3658a082e3b547dc94afcab4ca461debf482ad5c9767",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/eb1cfe0d11d3ef5c.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "RideWithDestiny",
+   "name": "Ride With Destiny",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Amethyst.webp",
+       "size": 1916680,
+       "sha256": "dc3dd3544b28bce94b47f91056d05c2c2e75d5f8ff5930c13d3f2cf0b3308781",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/dc3dd3544b28bce9.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Aqua.webp",
+       "size": 1916690,
+       "sha256": "d39d13a45eda8f08a7ec28b7a7de1c0d67368feab825a5d286f89031cdc100cd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d39d13a45eda8f08.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Copper.webp",
+       "size": 1916688,
+       "sha256": "138d884a75f6e2a8c85ee3fb0454a3c59627e2e78a0737c3e64bb39a211bb337",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/138d884a75f6e2a8.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Neon.webp",
+       "size": 3269450,
+       "sha256": "bb8fe3d477efb2f670e8c3d3ba6bb12b22e8a074271b849518e410d08f5931e9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/bb8fe3d477efb2f6.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Radio.webp",
+       "size": 1916716,
+       "sha256": "a71be4d23081340e646fa9868d1567b6d8cdb2ef3420c84d37813dcde0d4e94f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a71be4d23081340e.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Silver.webp",
+       "size": 1659468,
+       "sha256": "bc91b9faeed2e5c6c002575b20bbbebbc91c65518bbdcb64f3850899b0c534b2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/bc91b9faeed2e5c6.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "RideWithDestiny/RideWithDestiny/RideWithDestiny-Titanium.webp",
+       "size": 1916684,
+       "sha256": "18e6272380c8f8aaced31fbde0eb6d9ec60593fb6fdea378dca2f27c368081ff",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/18e6272380c8f8aa.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "SagradaFamilia",
+   "name": "Sagrada Familia",
+   "author": "Win81VMUser",
+   "contact": "https://github.com/win81vmuser",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Ocean Landscapes",
+     "items": [
+      {
+       "name": "A",
+       "path": "SagradaFamilia/SagradaFamilia-OceanLandscapes/SagradaFamilia-OceanLandscapes-A.webp",
+       "size": 2046738,
+       "sha256": "2c017ad6664b009c1017f7c065aac4233ac58f28f5ff5e580c72affee9aa968f",
+       "width": 2560,
+       "height": 1920,
+       "preview": "previews/2c017ad6664b009c.webp"
+      },
+      {
+       "name": "B",
+       "path": "SagradaFamilia/SagradaFamilia-OceanLandscapes/SagradaFamilia-OceanLandscapes-B.webp",
+       "size": 2228112,
+       "sha256": "6e42a88d4862a164b6cb1500b4f81a1cc1a2fb974ae4a48836a14eb8a8f909e2",
+       "width": 2560,
+       "height": 1440,
+       "preview": "previews/6e42a88d4862a164.webp"
+      },
+      {
+       "name": "C",
+       "path": "SagradaFamilia/SagradaFamilia-OceanLandscapes/SagradaFamilia-OceanLandscapes-C.webp",
+       "size": 2149160,
+       "sha256": "36cb9b1d9714ec71b8749b2370bee6da9f3cc0db4aa565e2d7328c2d0c7fc991",
+       "width": 2560,
+       "height": 1440,
+       "preview": "previews/36cb9b1d9714ec71.webp"
+      },
+      {
+       "name": "D",
+       "path": "SagradaFamilia/SagradaFamilia-OceanLandscapes/SagradaFamilia-OceanLandscapes-D.webp",
+       "size": 1915448,
+       "sha256": "710b0e975c3d55d08d0480e753f5a54c2f070d9782811d1c4e04f6b66a419b23",
+       "width": 2560,
+       "height": 1440,
+       "preview": "previews/710b0e975c3d55d0.webp"
+      }
+     ]
+    },
+    {
+     "name": "Tour",
+     "items": [
+      {
+       "name": "IMG_20260613_162346_964",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162346_964.jpg",
+       "size": 455673,
+       "sha256": "6d7517cf971a51f0dc0991639526c46bb04bc51ce825915dc47d9f237a456f6c",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/6d7517cf971a51f0.webp"
+      },
+      {
+       "name": "IMG_20260613_162347_197",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162347_197.jpg",
+       "size": 1679835,
+       "sha256": "f15f5697c62af6de4cca3163fa7c61df8de857049c6a71a94d78d9a0158b1a76",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/f15f5697c62af6de.webp"
+      },
+      {
+       "name": "IMG_20260613_162353_074",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162353_074.jpg",
+       "size": 699459,
+       "sha256": "f54a3981b6e94609916ebf35d066a1e4173bd59d605641dcc11d116fea07361b",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/f54a3981b6e94609.webp"
+      },
+      {
+       "name": "IMG_20260613_162353_864",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162353_864.jpg",
+       "size": 1360453,
+       "sha256": "559fb0cb408a178e1cdaab310ac8f4fe38594db95aebcfdf9938497db71b716c",
+       "width": 2042,
+       "height": 2560,
+       "preview": "previews/559fb0cb408a178e.webp"
+      },
+      {
+       "name": "IMG_20260613_162400_130",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162400_130.jpg",
+       "size": 742891,
+       "sha256": "f85cd4405dea0a93f8ca3c1e0b94efda9e780f7dfb98d169c8f001849a8ca7d9",
+       "width": 1945,
+       "height": 2560,
+       "preview": "previews/f85cd4405dea0a93.webp"
+      },
+      {
+       "name": "IMG_20260613_162418_583",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162418_583.jpg",
+       "size": 1021045,
+       "sha256": "90c6e01f3fee726651fe83d08955341e36bf94f6b2bb6264e19a9b9105c0df60",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/90c6e01f3fee7266.webp"
+      },
+      {
+       "name": "IMG_20260613_162419_263",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162419_263.jpg",
+       "size": 600558,
+       "sha256": "2e223be5cba2fcacdb293ae13bdd040121969d277e0a63245a7321ae9d3fba5c",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/2e223be5cba2fcac.webp"
+      },
+      {
+       "name": "IMG_20260613_162419_333",
+       "path": "SagradaFamilia/SagradaFamilia-Tour/IMG_20260613_162419_333.jpg",
+       "size": 1424490,
+       "sha256": "d85cd45eb334fa65ff0ac403a1cab82bbf87076de217aa6ce8eb98d3f055a0c8",
+       "width": 1440,
+       "height": 2560,
+       "preview": "previews/d85cd45eb334fa65.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "SgtOfLucidDreams",
+   "name": "Sgt Of Lucid Dreams",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Amethyst.webp",
+       "size": 3012268,
+       "sha256": "ef4795c0bdb53990cbf8cbbfc68715ce67905a0c5bf2bb93e5267d1686fdb775",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ef4795c0bdb53990.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Aqua.webp",
+       "size": 3012236,
+       "sha256": "b97dfebfa7d1b05893b8f9cbd92bf5f628d5f11a05e291d500d24e3b93acb914",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b97dfebfa7d1b058.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Copper.webp",
+       "size": 3012272,
+       "sha256": "ccca7be8869c583ff533e04816b324d19702bf3dd20a7ba0bcb58da8e53189e7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ccca7be8869c583f.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Gold.webp",
+       "size": 3012210,
+       "sha256": "552fc48b1b198b8907374f57dd4226ff4589754a3e0fd7f8638b6930fe4edbbd",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/552fc48b1b198b89.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Honey.webp",
+       "size": 3012260,
+       "sha256": "821898607246075f0a34dc743ae61ce6f235b29ff7d77f9e96f5607d502f6fea",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/821898607246075f.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Neon.webp",
+       "size": 3012262,
+       "sha256": "5b3451ce25f35cec13be82acfad040bbcf856693a7e5652aaa00fa2ff53a8e2f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5b3451ce25f35cec.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Radio.webp",
+       "size": 3012268,
+       "sha256": "b7bb7935a2b3a9ca684ca31834709a216121e6bfba6ed2a41bba9306ec4d3606",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b7bb7935a2b3a9ca.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Silver.webp",
+       "size": 3034838,
+       "sha256": "b020a3fa1ffd71281afd3b42e8f9348f5785da90f9cebece8cc8fa289530b5d4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b020a3fa1ffd7128.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Sweet.webp",
+       "size": 3012232,
+       "sha256": "19295893abce1a27be0aba1f8639b56a6fc83c52b26074bd8148ca9e53047c44",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/19295893abce1a27.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "SgtOfLucidDreams/SgtOfLucidDreams/SgtOfLucidDreams-Titanium.webp",
+       "size": 3034886,
+       "sha256": "d446458a48e871ea1a97397fc4cbe34a3b30eab86879e955f5879cbbd38d35e5",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d446458a48e871ea.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "StarNetNetCore",
+   "name": "StarNet NetCore",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "StarNet",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "StarNetNetCore/StarNet/StarNet-Amethyst.webp",
+       "size": 470978,
+       "sha256": "6b238893646f54f001988d73d8b5ad0fb31eb0cc4dc120759b69a6d1c90c4f4a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6b238893646f54f0.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "StarNetNetCore/StarNet/StarNet-Aqua.webp",
+       "size": 470990,
+       "sha256": "5b64c29816596475a7f932179413570f00aebdc26819d794383a9f513e2a8127",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5b64c29816596475.webp"
+      },
+      {
+       "name": "Coal",
+       "path": "StarNetNetCore/StarNet/StarNet-Coal.webp",
+       "size": 480692,
+       "sha256": "e6d4efbb41230196e93ad1507107543928c454bfddc94320123cce5fe2eb64e0",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e6d4efbb41230196.webp"
+      },
+      {
+       "name": "Copper A",
+       "path": "StarNetNetCore/StarNet/StarNet-Copper-A.webp",
+       "size": 471002,
+       "sha256": "b2dfb5f6d97ff36ffc81dae175268395510b0a460c3fa18a49390bc3167b405b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b2dfb5f6d97ff36f.webp"
+      },
+      {
+       "name": "Copper B",
+       "path": "StarNetNetCore/StarNet/StarNet-Copper-B.webp",
+       "size": 470978,
+       "sha256": "82c813ea861200281767b91ee50da9335865299affa6de8b0aee275279603046",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/82c813ea86120028.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "StarNetNetCore/StarNet/StarNet-Gold.webp",
+       "size": 470976,
+       "sha256": "ab1a5fd9ed35c17154c54b26ea46d0d9d9ddd403e9496868a321ee6407850e86",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ab1a5fd9ed35c171.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "StarNetNetCore/StarNet/StarNet-Honey.webp",
+       "size": 470974,
+       "sha256": "3b1014730c7d1f79d164f6b2508315fa108593258c5fc340ca310a33d9f94c8c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3b1014730c7d1f79.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "StarNetNetCore/StarNet/StarNet-Neon.webp",
+       "size": 470972,
+       "sha256": "96c2db792ed34cb1f209d52a0299d4c6ac20ab49cb43338c3b41ac340e6e29a6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/96c2db792ed34cb1.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "StarNetNetCore/StarNet/StarNet-Radio.webp",
+       "size": 470976,
+       "sha256": "37c91e8b670c84d85aa0b1883797d19c7e8abe91fb587267b38731cde91c2f70",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/37c91e8b670c84d8.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "StarNetNetCore/StarNet/StarNet-Silver.webp",
+       "size": 470948,
+       "sha256": "38c2471a23207771fda5cf9a2cf0d9d5097e4a5879f1c4595fb0209d8064cf5f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/38c2471a23207771.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "StarNetNetCore/StarNet/StarNet-Sweet.webp",
+       "size": 470986,
+       "sha256": "6dcff4d7f1d659fb4c5ac15264be1b4967b47f0c26155b17cb4edac3e52c793d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6dcff4d7f1d659fb.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "StarNetNetCore/StarNet/StarNet-Titanium.webp",
+       "size": 470978,
+       "sha256": "744c9399f4f6bd2feec805800f872ac94524555b2255e0a0a300078cec81ad0f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/744c9399f4f6bd2f.webp"
+      }
+     ]
+    },
+    {
+     "name": "CoreNet Outline",
+     "items": [
+      {
+       "name": "Dark",
+       "path": "StarNetNetCore/CoreNet-Outline/CoreNet-Outline-Dark.webp",
+       "size": 442480,
+       "sha256": "24e8fb1726fcf9b3696f634839cfc7f8eeeabbf213b1dde24ff61cacdf0d602c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/24e8fb1726fcf9b3.webp"
+      },
+      {
+       "name": "Light",
+       "path": "StarNetNetCore/CoreNet-Outline/CoreNet-Outline-Light.webp",
+       "size": 442478,
+       "sha256": "d9831b2ac5c61079c9fa58c9b40a992887d1e98895bf19f2705f859430dde249",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d9831b2ac5c61079.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "TakesFromDray",
+   "name": "Takes From Dray",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Along Of Our Decisions",
+     "items": [
+      {
+       "name": "Afternoon",
+       "path": "TakesFromDray/AlongOfOurDecisions/AlongOfOurDecisions-Afternoon.webp",
+       "size": 2746144,
+       "sha256": "4d7a8c582689f17d75153fb3e38cf69341ec52e4af9178ff62be1457b179d0d2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/4d7a8c582689f17d.webp"
+      },
+      {
+       "name": "Morning",
+       "path": "TakesFromDray/AlongOfOurDecisions/AlongOfOurDecisions-Morning.webp",
+       "size": 2904800,
+       "sha256": "fb25d66c1711924cb590f3684204007f3f5a23006cf7a1fff836552ff0204422",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/fb25d66c1711924c.webp"
+      },
+      {
+       "name": "Night",
+       "path": "TakesFromDray/AlongOfOurDecisions/AlongOfOurDecisions-Night.webp",
+       "size": 476402,
+       "sha256": "cb2d93880ea8e38f92717416ec4efe83f218369e135d7d580561dfff210ea1c4",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/cb2d93880ea8e38f.webp"
+      }
+     ]
+    },
+    {
+     "name": "But Life Still Goes On",
+     "items": [
+      {
+       "name": "Afternoon",
+       "path": "TakesFromDray/ButLifeStillGoesOn/ButLifeStillGoesOn-Afternoon.webp",
+       "size": 6616588,
+       "sha256": "5ba6a8645e2cc035bd4c19daffcf92240a14fe3c5eb167796f8f28fb6046beb3",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/5ba6a8645e2cc035.webp"
+      },
+      {
+       "name": "Morning",
+       "path": "TakesFromDray/ButLifeStillGoesOn/ButLifeStillGoesOn-Morning.webp",
+       "size": 7824804,
+       "sha256": "2a1a66661261b3bc93a359c7287a1eabf451912ccf18c72381934a3e1ce7fa2f",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/2a1a66661261b3bc.webp"
+      },
+      {
+       "name": "Night",
+       "path": "TakesFromDray/ButLifeStillGoesOn/ButLifeStillGoesOn-Night.webp",
+       "size": 8312482,
+       "sha256": "17ebfd15bbf34660cbaba341b186f27ff3ff653ab42ecafdc57de9665ea20364",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/17ebfd15bbf34660.webp"
+      }
+     ]
+    },
+    {
+     "name": "First Layer Dray",
+     "items": [
+      {
+       "name": "FirstLayersDray Afternoon",
+       "path": "TakesFromDray/FirstLayerDray/FirstLayersDray-Afternoon.webp",
+       "size": 5654652,
+       "sha256": "2e9e7e92819e656778cfa5291c32c75da99e4697cd4bd096fee097b5abe99699",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/2e9e7e92819e6567.webp"
+      },
+      {
+       "name": "FirstLayersDray Morning",
+       "path": "TakesFromDray/FirstLayerDray/FirstLayersDray-Morning.webp",
+       "size": 5937976,
+       "sha256": "94e9ffed9fb082bf5ad5deb754952e01d0519ee967947bf4acbb447ec500fa98",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/94e9ffed9fb082bf.webp"
+      },
+      {
+       "name": "FirstLayersDray Night",
+       "path": "TakesFromDray/FirstLayerDray/FirstLayersDray-Night.webp",
+       "size": 5402144,
+       "sha256": "6dddb21ab80716cf369e4affc2b2a023727415224d31d7a1e1365d19a94a222e",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/6dddb21ab80716cf.webp"
+      }
+     ]
+    },
+    {
+     "name": "One Leaf On Dream",
+     "items": [
+      {
+       "name": "Afternoon",
+       "path": "TakesFromDray/OneLeafOnDream/OneLeafOnDream-Afternoon.webp",
+       "size": 2605524,
+       "sha256": "7938a6dfdfff2ded9f9d764c711b0beaacbbf843bf6caa6cb58bded44b0d3804",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7938a6dfdfff2ded.webp"
+      },
+      {
+       "name": "Morning",
+       "path": "TakesFromDray/OneLeafOnDream/OneLeafOnDream-Morning.webp",
+       "size": 1887870,
+       "sha256": "6565f32e4bdcfc1c262d86c874e1239f8563b19d1cc2f3c4d36c1e6863730b91",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6565f32e4bdcfc1c.webp"
+      },
+      {
+       "name": "Night",
+       "path": "TakesFromDray/OneLeafOnDream/OneLeafOnDream-Night.webp",
+       "size": 3112194,
+       "sha256": "92692af437d73d205f894d68e5593c5b50f3c44d9c0b05d20106e892b72db335",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/92692af437d73d20.webp"
+      }
+     ]
+    },
+    {
+     "name": "Woven Joy",
+     "items": [
+      {
+       "name": "A",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-A.webp",
+       "size": 8008216,
+       "sha256": "1424af88b35652f6d5cea86132448e3ced29c4e89d84e392bd418ce2a710f433",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/1424af88b35652f6.webp"
+      },
+      {
+       "name": "B",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-B.webp",
+       "size": 5330298,
+       "sha256": "1953f95cf4803633d1e35f8112492cea3c73732db5add050883e389e11169fdc",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/1953f95cf4803633.webp"
+      },
+      {
+       "name": "Vintage A",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-A.webp",
+       "size": 4702614,
+       "sha256": "a4a1f2fb1a9a2224508282b301a8540cba5719cfdb35be7be58dbcdb55723dca",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/a4a1f2fb1a9a2224.webp"
+      },
+      {
+       "name": "Vintage B",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-B.webp",
+       "size": 5605784,
+       "sha256": "ddac9e54ed405c4c15632cbae1bd1c5a402968441f5cba358843a7fe2a2f5c0f",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/ddac9e54ed405c4c.webp"
+      },
+      {
+       "name": "Vintage C",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-C.webp",
+       "size": 6735742,
+       "sha256": "253d72687d1fff6d3570c378678a09f4038517cd3d5f1dcf77ddb48fe0ea9b90",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/253d72687d1fff6d.webp"
+      },
+      {
+       "name": "Vintage D",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-D.webp",
+       "size": 6342510,
+       "sha256": "9700f7779b60e96835c0bcc47ce83e1c1f2ab513d76293714266da57a0535cba",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/9700f7779b60e968.webp"
+      },
+      {
+       "name": "Vintage E",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-E.webp",
+       "size": 4406632,
+       "sha256": "3feb3795ef62ec956d9f58c930d4a638448047b2e137f162aa160b8608b0c2fa",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/3feb3795ef62ec95.webp"
+      },
+      {
+       "name": "Vintage F",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-F.webp",
+       "size": 4678598,
+       "sha256": "ac2c300922616bfb5960bbfbc1a126579adc0fbf06c9125dcd1e9e2c4717bab1",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/ac2c300922616bfb.webp"
+      },
+      {
+       "name": "Vintage G",
+       "path": "TakesFromDray/WovenJoy/WovenJoy-Vintage-G.webp",
+       "size": 4711694,
+       "sha256": "e560911f5db13605fa29a911e7bd185b4779ef265f1b69269c4dc2300f0c7ee1",
+       "width": 2296,
+       "height": 4080,
+       "preview": "previews/e560911f5db13605.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "TheAsymmetricals",
+   "name": "The Asymmetricals",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Amethyst.webp",
+       "size": 1049822,
+       "sha256": "b2b60ed56f7b5333324331df38066649431863af427c0325b4ee0eb44290591b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/b2b60ed56f7b5333.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Aqua.webp",
+       "size": 924326,
+       "sha256": "2ab5d0c19a8840bf1a4890d9dd0b2af43edadec6dd3e44c1e6b74c2703fc3495",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2ab5d0c19a8840bf.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Copper.webp",
+       "size": 1247908,
+       "sha256": "3909dd6c6569a2d5649794a0f61b8babad2c2a65c9d283a5742ff0a6c4e61221",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/3909dd6c6569a2d5.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Gold.webp",
+       "size": 1093986,
+       "sha256": "a9b48f9200221dee5c893f44efb41334cddd5477b5760bb9c6e1b48dc9d73d80",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a9b48f9200221dee.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Honey.webp",
+       "size": 1014360,
+       "sha256": "597f5ac9696b8c2732f808578b0c86c9ddfedf7bd9756051958cd63fccc24e88",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/597f5ac9696b8c27.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Neon.webp",
+       "size": 1013394,
+       "sha256": "99b92899cb28f017c24302b67b72facf499db2d59979ab1bc25cefe223940a21",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/99b92899cb28f017.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Radio.webp",
+       "size": 1081840,
+       "sha256": "7925db2eca6ad68d71af2d270b48c1316244fa95a497a14fe73644f900303071",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/7925db2eca6ad68d.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Silver.webp",
+       "size": 412132,
+       "sha256": "8895389ffd8b57b01c5df10519cc7a6c77e0506fd97ec44cd8968fa960659069",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8895389ffd8b57b0.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Sweet.webp",
+       "size": 1048528,
+       "sha256": "ad9afc6e378cc1ef5b867055cc77f1e6bac57ed1c15d833fd1c86994f88e5682",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/ad9afc6e378cc1ef.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "TheAsymmetricals/TheAsymmetricals/TheAsymmetricals-Titanium.webp",
+       "size": 469998,
+       "sha256": "94f28f2cafdc1d65f17802efba668c97a4042126adfda5558edef4da27d3f4d0",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/94f28f2cafdc1d65.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "TheBeeAcrossMyPetals",
+   "name": "The Bee Across My Petals",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "A",
+       "path": "TheBeeAcrossMyPetals/TheBeeAcrossMyPetals/TheBeeAcrossMyPetals-A.webp",
+       "size": 200662,
+       "sha256": "357cbfd1981319d32e374e3f06aaebd11385924f3c934533d930bafe633fcbb6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/357cbfd1981319d3.webp"
+      },
+      {
+       "name": "B",
+       "path": "TheBeeAcrossMyPetals/TheBeeAcrossMyPetals/TheBeeAcrossMyPetals-B.webp",
+       "size": 211328,
+       "sha256": "9189514b62c1f47912649bc405af5e17b710efb707e49b97c34f9ed836be2672",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/9189514b62c1f479.webp"
+      },
+      {
+       "name": "C",
+       "path": "TheBeeAcrossMyPetals/TheBeeAcrossMyPetals/TheBeeAcrossMyPetals-C.webp",
+       "size": 216770,
+       "sha256": "70eb8b4d24063e5ec88fd6373486dca8385147dadb4b76f2aeff45debca26d51",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/70eb8b4d24063e5e.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "WithinReflections",
+   "name": "Within Reflections",
+   "author": "Ziednaga",
+   "contact": "https://github.com/Ziednaga",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "",
+     "items": [
+      {
+       "name": "ItSeesYouToo",
+       "path": "WithinReflections/WithinReflections/ItSeesYouToo.webp",
+       "size": 1175544,
+       "sha256": "1755ca87f7d096b6999a7800380db656042d1964b06a15301163fd80f4dae71c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1755ca87f7d096b6.webp"
+      },
+      {
+       "name": "NothingLooksBack",
+       "path": "WithinReflections/WithinReflections/NothingLooksBack.webp",
+       "size": 1304038,
+       "sha256": "a0f28fd472d0ae800981a51ca3f2bb7efc887b1d7094ce3844ad8a680fc6f04b",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a0f28fd472d0ae80.webp"
+      },
+      {
+       "name": "Amethyst",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Amethyst.webp",
+       "size": 1367574,
+       "sha256": "5f4f13a6bef61d8c564ddaf54fcd2f571818f460a34fd759ac93377246915dcc",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/5f4f13a6bef61d8c.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Aqua.webp",
+       "size": 1418420,
+       "sha256": "36c9acd675bb54fff323146656a2618c69ad1affd6dd1d655b7b4eaf726ebd74",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/36c9acd675bb54ff.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Copper.webp",
+       "size": 1354668,
+       "sha256": "989d0ab2a150be03636549b77f944803570ac8cc0afaf273c824dc97ecb2399a",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/989d0ab2a150be03.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Gold.webp",
+       "size": 1422444,
+       "sha256": "8589ca9cb93113e759332e33bae20660134e50083c49b51b70bded8d6b187068",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/8589ca9cb93113e7.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Neon.webp",
+       "size": 1331712,
+       "sha256": "d73cf080a33479eaf56f3e05f7e72221665e61543f074cf425d15367e0bed620",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d73cf080a33479ea.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Radio.webp",
+       "size": 1295274,
+       "sha256": "e43e40a67d5432f7601c6a5045824e67eb56acb66849e75106dfbd938128ec54",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e43e40a67d5432f7.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Silver.webp",
+       "size": 1146132,
+       "sha256": "e63a137b40682523ad9e4188fc30be501137093b813e7c7e7b552b25e9c59b54",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e63a137b40682523.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Sweet.webp",
+       "size": 1445500,
+       "sha256": "2a3b0f58fba46964278ef3117fb133272ec9c393ccb73058cd994420cfd0daac",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2a3b0f58fba46964.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "WithinReflections/WithinReflections/WithinReflections-Titanium.webp",
+       "size": 1372970,
+       "sha256": "89289e42129a827af56ccbd3dc0f92e8c571e9ec8dbfdb8b5e6ed01aab9b2be2",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/89289e42129a827a.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Yvaga-3",
+   "name": "Yvaga 3",
+   "author": "Clangsdorff",
+   "contact": "https://github.com/clangsdorff",
+   "license": "CC BY-NC 4.0",
+   "variants": [
+    {
+     "name": "Bottom",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Amethyst.webp",
+       "size": 1492104,
+       "sha256": "072786381c5d19866a2e22228e055995269958c1cec343bacaf684bdc4ec1c24",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/072786381c5d1986.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Aqua.webp",
+       "size": 1492072,
+       "sha256": "61e3453041afe73bf3604a2e6060b0a03f913cfe551a24c9206883e2b89c8897",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/61e3453041afe73b.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Copper.webp",
+       "size": 1492092,
+       "sha256": "0e08d3ced5ddbcf44e39bdfe25cd81f55d17e3aa654e254db40deaa28c4e185f",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/0e08d3ced5ddbcf4.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Gold.webp",
+       "size": 1492052,
+       "sha256": "1683061d7738db1d7827907b2137b846a7e7692de030d7f68d9077fa29ce94c3",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1683061d7738db1d.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Honey.webp",
+       "size": 1492104,
+       "sha256": "bb719c51fd6862dff5b1c9224b1571e7e85c19be9720853ba198131de3ca5cb5",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/bb719c51fd6862df.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Neon.webp",
+       "size": 1492104,
+       "sha256": "821342b5f6abcd0d32e32bfd4e64ec76e9f8ec05e79c509aeed7a5e5d19125bf",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/821342b5f6abcd0d.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Radio.webp",
+       "size": 1492040,
+       "sha256": "859da4c1a33a5ec449eb54aaf432322a485e2311acde6fc0c5932b384fcbb541",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/859da4c1a33a5ec4.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Silver.webp",
+       "size": 1492008,
+       "sha256": "d5559c96b8f5a214cf6109690e74fea44a7f00aaf4fea70eb63f1608ccf6b75e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d5559c96b8f5a214.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Sweet.webp",
+       "size": 1492038,
+       "sha256": "1a3c91e745977f110dea485c74c616ddceaba26e65494cdf612891d0e16329c7",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1a3c91e745977f11.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "Yvaga-3/Yvaga-3/Yvaga-3-Titanium.webp",
+       "size": 1514224,
+       "sha256": "6b58d3699c236fd01b6f0ce52e3eed5a5449eda202c3cebe9c186ee46c8ba63c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/6b58d3699c236fd0.webp"
+      }
+     ]
+    },
+    {
+     "name": "Full Screen",
+     "items": [
+      {
+       "name": "Amethyst",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Amethyst.webp",
+       "size": 2849882,
+       "sha256": "49f857c60631bbfb12b1321638645e8d7d2248b181a81fe349e6addedf552c19",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/49f857c60631bbfb.webp"
+      },
+      {
+       "name": "Aqua",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Aqua.webp",
+       "size": 2849850,
+       "sha256": "16da8db434f560cae8097402c4fdde6f207d5422aabc6b2023b045d636ab83d8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/16da8db434f560ca.webp"
+      },
+      {
+       "name": "Copper",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Copper.webp",
+       "size": 2849870,
+       "sha256": "08ed03aa6f63f72cddd29b15cd2aae83ca0c5b3c9e02d32606d2bc16f9037353",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/08ed03aa6f63f72c.webp"
+      },
+      {
+       "name": "Gold",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Gold.webp",
+       "size": 2849830,
+       "sha256": "14ea7f9757f8e20f54017131b7bad9ec2cbada7bfa9899bfbcfc096e69d40f1d",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/14ea7f9757f8e20f.webp"
+      },
+      {
+       "name": "Honey",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Honey.webp",
+       "size": 2849882,
+       "sha256": "d6de7c476b607fed9aaa49708a8965c0f428dbe49c108fdb5001df228ffd9024",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/d6de7c476b607fed.webp"
+      },
+      {
+       "name": "Neon",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Neon.webp",
+       "size": 2849882,
+       "sha256": "06e0f0844129efc890abe682bca4311513a93e47171e0ada8caf116e4324c0a9",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/06e0f0844129efc8.webp"
+      },
+      {
+       "name": "Radio",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Radio.webp",
+       "size": 2849818,
+       "sha256": "1cb936cd8850eb50a2ea251f7325484de76a1609ba0e8cafe540cc164762ea4c",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/1cb936cd8850eb50.webp"
+      },
+      {
+       "name": "Silver",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Silver.webp",
+       "size": 2851840,
+       "sha256": "29586d75edcf9c82fbf9b099c138701924ad59394703a0ddf026816d5a834896",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/29586d75edcf9c82.webp"
+      },
+      {
+       "name": "Sweet",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Sweet.webp",
+       "size": 2849816,
+       "sha256": "e0f2b4eaefa6b169ae3161408f0b35f08e5fd9ab8f73e32ba8fdf678ab58ebd8",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/e0f2b4eaefa6b169.webp"
+      },
+      {
+       "name": "Titanium",
+       "path": "Yvaga-3/Yvaga-3-Alt/Yvaga-3-Alt-Titanium.webp",
+       "size": 2851884,
+       "sha256": "25c33a8ed25f68b453e10f752d4e89512636920b420205e4e458f8eb3ab129d6",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/25c33a8ed25f68b4.webp"
+      }
+     ]
+    },
+    {
+     "name": "Vintage",
+     "items": [
+      {
+       "name": "C",
+       "path": "Yvaga-3/Yvaga-3-Vintage/Yvaga-3-C.webp",
+       "size": 1025080,
+       "sha256": "eaa31cab120b4ba6bc574082a0b52fec9553528832ce27163aa82fce99c08dad",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/eaa31cab120b4ba6.webp"
+      },
+      {
+       "name": "A",
+       "path": "Yvaga-3/Yvaga-3-Vintage/Yvaga-3-Vintage-A.webp",
+       "size": 1672028,
+       "sha256": "a36a8d20f49118762bb5918dffb476a7f96a8eb24a23260331e7c1b27b07c71e",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/a36a8d20f4911876.webp"
+      },
+      {
+       "name": "B",
+       "path": "Yvaga-3/Yvaga-3-Vintage/Yvaga-3-Vintage-B.webp",
+       "size": 881556,
+       "sha256": "898dd85b044054af3fdb209cd2bff462d0b2d4d804fe5c4118a1dda913acf634",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/898dd85b044054af.webp"
+      },
+      {
+       "name": "Yvaga 3",
+       "path": "Yvaga-3/Yvaga-3-Vintage/Yvaga-3.webp",
+       "size": 1982480,
+       "sha256": "2e07caf4b470ab91df5b1db74d7dbbe08dd0cd4efad96725979d3422da284886",
+       "width": 1440,
+       "height": 3200,
+       "preview": "previews/2e07caf4b470ab91.webp"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
