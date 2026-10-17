@@ -3,10 +3,11 @@ name: Build dist
 on:
   push:
     branches: [main]
-    paths:
-      - "Wallpapers/**"
-      - ".github/scripts/build_dist.py"
-      - ".github/workflows/dist.yml"
+    paths-ignore:
+      - "README.md"
+      - "CONTRIBUTING.md"
+      - "License.txt"
+      - "Obsolete/**"
   workflow_dispatch:
 
 permissions:
