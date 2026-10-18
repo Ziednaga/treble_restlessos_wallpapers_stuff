@@ -8,3 +8,5 @@ License: CC BY-NC 4.0
 
 BeneathStillWaters: Default
 BeneathStillWaters-WL: With Logo
+WithinStillWaters: Within Still Waters
+WithinStillPlaces: Within Still Places

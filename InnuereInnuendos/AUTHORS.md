@@ -1,4 +1,4 @@
-# Innuendos
+# Innuere Innuendos
 
 Author: Ziednaga
 Contact: https://github.com/Ziednaga
