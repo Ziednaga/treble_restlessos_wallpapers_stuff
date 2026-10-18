@@ -44,7 +44,7 @@ YourWallpaperName/
 
 ## AUTHORS.md
 
-Every pack needs an `AUTHORS.md`. The first line is the pack name as it is shown in the wallpaper picker, so spaces are allowed there.
+Every pack needs an `AUTHORS.md`. The build script (`.github/scripts/build_dist.py`) only treats a root folder as a wallpaper pack if it contains this file. A folder without it is ignored and its wallpapers never reach the wallpaper picker. It is also where the pack carries the attribution that CC BY-NC 4.0 asks for.
 
 ```
 # Your Wallpaper Name
@@ -60,7 +60,18 @@ YourWallpaperName-WL: With Logo
 YourWallpaperName-WTL: With Text Logo
 ```
 
-The `Variants` section is optional. It maps each variant folder to the name shown in the wallpaper picker, in the order they should appear. Use it to describe what is different in each variant. WL, WTL, WNP and WNTL are spelled out automatically when no name is given.
+How each part is used:
+
+- **First line (`# ...`):** the pack name shown in the picker. Spaces are allowed here, unlike in folder and file names. Only the first `# ` line counts.
+- **Author, Contact, License:** copied into the generated manifest, so every pack carries its attribution with it.
+- **Variants (optional):** maps each variant folder to the name shown in the picker, in the order they should appear. Use it to describe what is different in each variant.
+
+Rules that come from how the file is read:
+
+- The name on the left must match the variant folder name exactly (case-sensitive). A name that does not match is ignored silently.
+- Every line needs a name after the colon. A line without one is skipped, and that variant loses its place in the order.
+- Variants that are not listed are still shown, after the listed ones, with a name built from the folder name. The base variant (the folder named like the pack) gets an empty name if it is not listed, so list it as `Default`.
+- WL, WTL, WNP and WNTL are spelled out automatically when no name is given.
 
 ## Color naming
 
