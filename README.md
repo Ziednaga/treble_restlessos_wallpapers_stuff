@@ -20,7 +20,7 @@ Once merged, the pack shows up in the RestlessOS wallpaper picker automatically.
 All artwork, wallpapers, and visual content created by @Ziednaga or other users who wish to host their creations in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 Shared authorship: This content is distributed under shared authorship with the RestlessOS maintainer, @cawilliamson, as part of the RestlessOS Treble GSI project.
 
-For further details, please refer to the License.txt file.
+For further details, please refer to the LICENSE.txt file.
 
 > **RestlessOS branding assets** (name, logo, and visual identity) live in a separate repository:
 > https://github.com/Ziednaga/treble_restlessos_branding_stuff
