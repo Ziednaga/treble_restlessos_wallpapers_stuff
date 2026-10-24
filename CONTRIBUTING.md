@@ -70,7 +70,7 @@ Rules that come from how the file is read:
 
 - The name on the left must match the variant folder name exactly (case-sensitive). A name that does not match is ignored silently.
 - Every line needs a name after the colon. A line without one is skipped, and that variant loses its place in the order.
-- Variants that are not listed are still shown, after the listed ones, with a name built from the folder name. The base variant (the folder named like the pack) gets an empty name if it is not listed, so list it as `Default`.
+- Variants that are not listed are still shown, after the listed ones, with a name built from the folder name. The base variant (the folder named like the pack) gets an empty name, which the app shows as "Default". A pack with a single variant folder does not need a `Variants` section. If a pack has several variants, list the base one first, because the first variant is the one the pack opens with and its first wallpaper is the pack cover.
 - WL, WTL, WNP and WNTL are spelled out automatically when no name is given.
 
 ## Color naming
