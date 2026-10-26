@@ -6,6 +6,6 @@ License: CC BY-NC 4.0
 
 ## Variants
 
-HereThereAndEverywhere: Original Colors
 HereThereAndEverywhere-Colored: Colors
 HereThereAndEverywhere-Colored-Alt: Colors Glow
+HereThereAndEverywhere: Original Colors
