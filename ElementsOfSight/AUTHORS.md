@@ -6,5 +6,5 @@ License: CC BY-NC 4.0
 
 ## Variants
 
-ElementsOfSight: Default
-ElementsOfSight-WTL: With Text Logo
+ElementsOfSight: Light
+ElementsOfSight-Dark: Dark
