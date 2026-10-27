@@ -6,5 +6,5 @@ License: CC BY-NC 4.0
 
 ## Variants
 
-ElementsOfSight: Light
+ElementsOfSight-Light: Light
 ElementsOfSight-Dark: Dark
