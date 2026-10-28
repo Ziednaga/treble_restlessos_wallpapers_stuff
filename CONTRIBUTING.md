@@ -103,58 +103,59 @@ These codes identify technical or compositional variants:
 
 These codes are naming conventions. The build script converts them into readable display names but does not inspect the artwork to verify their visual meaning. Contributors and reviewers are responsible for ensuring that the artwork matches its description.
 
+##
 ### 4.2 Filename Structure
 
-The recommended convention is to place the variant code immediately after the pack name when a code is present.
+The filename consists of the pack name followed by descriptive labels and, when applicable, variant codes. Separate each component with hyphens.
+
+Variant codes may appear before or after descriptive labels. Both conventions are supported by the repository, provided the filename matches the variant folder and the build script can identify the variant code.
 
 ```text
 PackName/PackName-Descriptor.webp
 PackName/PackName-Descriptor-AdditionalDescriptor.webp
 
+PackName-WL/PackName-Descriptor-WL.webp
 PackName-WL/PackName-WL-Descriptor.webp
-PackName-WTL/PackName-WTL-Descriptor.webp
-PackName-WNTL/PackName-WNTL-Descriptor.webp
-PackName-WNP/PackName-WNP-Descriptor.webp
+
+PackName-WTL/PackName-Descriptor-WTL.webp
+PackName-WNP/PackName-Descriptor-WNP.webp
+PackName-WNTL/PackName-Descriptor-WNTL.webp
 ```
 
-Examples:
+Examples from existing naming patterns:
 
 ```text
-DriftAloft/DriftAloft-Aqua.webp
-DriftAloft/DriftAloft-Copper-Vintage.webp
-DriftAloft-WL/DriftAloft-WL-Aqua.webp
-DriftAloft-WTL/DriftAloft-WTL-Amethyst.webp
-DriftAloft-WNTL/DriftAloft-WNTL-Silver.webp
-DriftAloft-WNP/DriftAloft-WNP-Geometric.webp
+BeatYourRhythm/BeatYourRhythm-Amethyst.webp
+BeatYourRhythm-WL/BeatYourRhythm-Amethyst-WL.webp
+DearPrudence-Vintage/DearPrudence-Vintage-A.webp
+MadeInEden/MadeInEden-WNP-WL.webp
 ```
 
-The variant code in the filename must match the containing variant folder. The script removes the pack name prefix and can remove the matching variant code when it appears at the beginning or end of the remaining filename.
-
-For consistency and readability, prefer placing the code immediately after the pack name. Avoid using variant codes as ordinary descriptors in the base variant folder.
+The variant code must match the containing variant folder. Keep filenames consistent within each pack and avoid placing variant codes in the base variant folder unless they are intentionally part of the filename's descriptive text.
 
 ### 4.3 How Display Names Are Generated
 
-The build script:
+The build script derives wallpaper display names from their paths and filenames:
 
 1. Removes the file extension.
 2. Removes the pack name prefix.
-3. Removes the matching variant code associated with the containing folder, when present at the beginning or end of the remaining name.
-4. Converts the remaining hyphen-separated words into a readable display name, expanding recognized variant codes such as `WL` and `WNP`.
+3. Removes the matching variant code from the beginning or end of the remaining filename, when applicable.
+4. Converts recognized codes into readable labels and formats the remaining hyphen-separated words.
 
 For example:
 
 ```text
 DriftAloft/DriftAloft-Copper-Vintage.webp
-→ Copper Vintage
+>> Copper Vintage
 
 DriftAloft-WL/DriftAloft-WL-Aqua.webp
-→ Aqua
+>> Aqua
 
 DriftAloft-WL/DriftAloft-Aqua-WL.webp
-→ Aqua
+>> Aqua
 ```
 
-Keep the pack name and variant folder consistent. The script derives names from paths and filenames, so inconsistent naming can produce unintended display names.
+The script does not inspect the image itself. It derives names from filenames and folder structure, so inconsistent naming can produce unintended display names.
 
 ### 4.4 Light and Dark Variants
 
