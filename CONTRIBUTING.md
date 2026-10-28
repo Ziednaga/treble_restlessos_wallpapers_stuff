@@ -1,54 +1,60 @@
 
 # Contributing to RestlessOS Wallpapers
 
-Thank you for wanting to contribute artwork to RestlessOS. This document explains how to submit your work so it integrates cleanly with the rest of the repository.
+Thank you for contributing artwork to RestlessOS. This document explains how to prepare, name, and submit wallpaper packs so they integrate cleanly with the repository.
 
-Every pack in this repository shows up in the RestlessOS wallpaper picker automatically once it is merged.
+Every accepted pack is automatically included in the RestlessOS wallpaper picker when merged.
 
-## Before You Start
+## 1. Contribution Requirements
 
 - All wallpapers must be original work.
 - Do not submit AI-generated images, edits of other people's work, or copyrighted material.
-- By submitting a Pull Request, you agree that your artwork will be distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, consistent with the rest of this repository. This means anyone can share and adapt your work for non-commercial purposes as long as they give appropriate credit.
+- By submitting a Pull Request, you agree that your artwork will be distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, consistent with the rest of this repository.
+- This license allows others to share and adapt your work for non-commercial purposes, provided they give appropriate credit.
 
-## Required Format
+### Required Image Format
 
-| Property | Value |
+| Property | Requirement |
 | --- | --- |
 | Resolution | 1440 × 3200 px or higher |
-| Formats | WEBP (digital artwork), PNG or JPEG (photography). Lossless WEBP is highly recommended. |
+| Formats | WEBP for digital artwork; PNG or JPEG for photography |
 | Color profile | sRGB |
+| Compression | Lossless WEBP is highly recommended |
 
 Submissions below 1440 × 3200 px will be rejected.
 
-## Folder Structure
+## 2. Wallpaper Pack Structure
 
-Each wallpaper pack is a folder in the repository root. Folder and file names must not contain spaces.
+Each wallpaper pack must be a folder in the repository root. Folder and file names must not contain spaces.
 
 ```text
 YourWallpaperName/
-  AUTHORS.md
-  YourWallpaperName/
-    YourWallpaperName-Silver.webp
-    YourWallpaperName-Aqua.webp
-  YourWallpaperName-WL/
-    YourWallpaperName-Silver-WL.webp
-  YourWallpaperName-WTL/
-    YourWallpaperName-Silver-WTL.webp
-  YourWallpaperName-WNTL/
-    YourWallpaperName-Silver-WNTL.webp
-  YourWallpaperName-WNP/
-    YourWallpaperName-Silver-WNP.webp
+├── AUTHORS.md
+├── YourWallpaperName/
+│   ├── YourWallpaperName-Silver.webp
+│   └── YourWallpaperName-Aqua.webp
+├── YourWallpaperName-WL/
+│   └── YourWallpaperName-WL-Silver.webp
+├── YourWallpaperName-WTL/
+│   └── YourWallpaperName-WTL-Silver.webp
+├── YourWallpaperName-WNTL/
+│   └── YourWallpaperName-WNTL-Silver.webp
+└── YourWallpaperName-WNP/
+    └── YourWallpaperName-WNP-Silver.webp
 ```
 
-- The base variant, without a logo or text, is the only required one.
-- WL, WTL, WNP, and WNTL variants are optional.
-- Use these variants to distinguish logo and text treatments or to provide versions without particles and/or post-processing effects.
-- Every variant folder must follow the naming conventions described below.
+- `AUTHORS.md` is mandatory.
+- The base variant, stored in the folder matching the pack name, is mandatory.
+- Additional variant folders are optional.
+- Each variant folder must follow the naming conventions described in Section 4.
 
-## AUTHORS.md
+## 3. AUTHORS.md and Manifest Ordering
 
-Every pack needs an `AUTHORS.md`. The build script (`.github/scripts/build_dist.py`) only treats a root folder as a wallpaper pack if it contains this file. A folder without it is ignored and its wallpapers never reach the wallpaper picker. This file also carries the attribution required by the CC BY-NC 4.0 license.
+The build script, `.github/scripts/build_dist.py`, uses `AUTHORS.md` to identify wallpaper packs, retrieve attribution, and determine the display names and ordering of variants.
+
+A folder without `AUTHORS.md` is not recognized as a wallpaper pack.
+
+### Example
 
 ```markdown
 # Your Wallpaper Name
@@ -62,87 +68,194 @@ License: CC BY-NC 4.0
 YourWallpaperName: Default
 YourWallpaperName-WL: With Logo
 YourWallpaperName-WTL: With Text Logo
+YourWallpaperName-WNP: No Particles
+YourWallpaperName-WNTL: No Text Logo
 ```
 
-### How AUTHORS.md Works
+### How It Works
 
-- **First heading (`# ...`):** The pack name shown in the picker. Spaces are allowed here, unlike in folder and file names. Only the first `# ` heading counts.
-- **Author, Contact, License:** Copied into the generated manifest so every pack carries its attribution.
-- **Variants (optional):** Maps each variant folder to the name shown in the picker, in the order they should appear.
+- **First heading:** The first `# ` heading provides the pack name displayed in the picker. Spaces are allowed here.
+- **Author, Contact, License:** These fields provide attribution in the generated manifest.
+- **Variants:** Each entry maps a variant folder to its display name.
+- **Variant order:** Variants listed in this section appear in the specified order. List the base variant first if it should be the default opening variant.
+- **Cover image:** The first wallpaper in the first displayed variant becomes the pack cover.
+- **Unlisted variants:** These are still included after listed variants, with names derived from their folder names. The base variant is displayed as `Default` when its name is empty.
+- **Missing display names:** Entries without a name after the colon are skipped.
+- **Exact folder names:** Variant names on the left must match their folder names exactly, including capitalization.
+- **Single-variant packs:** A `Variants` section is unnecessary if the pack has only one variant folder.
 
-### Variant Naming Rules
+The order of wallpaper files within each variant is determined by lexicographic sorting of their paths. Listing files in `AUTHORS.md` does not control their order.
 
-- The name on the left must match the variant folder name exactly, including capitalization. A name that does not match is ignored silently.
-- Every line needs a name after the colon. A line without one is skipped, and that variant loses its specified place in the order.
-- Variants that are not listed are still shown after the listed ones, with a name derived from the folder name. The base variant gets an empty name, which the app displays as `Default`.
-- A pack with a single variant folder does not need a `Variants` section.
-- If a pack has several variants, list the base variant first. The first variant determines which variant the pack opens with, and its first wallpaper becomes the pack cover.
-- WL, WTL, WNP, and WNTL are spelled out automatically when no custom name is provided.
+## 4. File and Variant Naming
 
-## Color Naming
+Use hyphens to separate the pack name, variant codes, and descriptive labels. Keep names consistent throughout the pack.
 
-If your wallpaper has color variants, use only the following names. Minimum 1 variant, maximum 18.
+### 4.1 Variant Codes
 
-| Name | Color |
+These codes identify technical or compositional variants:
+
+| Code | Meaning |
 | --- | --- |
-| Silver | Grey |
-| Titanium | Extremely pale or greyish cyan |
-| Aqua | Vivid turquoise or cyan |
-| Copper | Deep red or reddish tones |
-| Amethyst | Violet or lilac |
-| Radio | Green |
-| Gold | Yellow or golden |
-| Sweet | Pink |
-| Neon | Vivid blue or similar electric tone |
-| Honey | Orange |
-| Charcoal | Black |
-| Pearl | White |
-| Azure | Sky blue or bright cerulean |
-| Teal | Emerald green |
-| Coral | Reddish pink |
-| Sapphire | Darker blue |
-| Mocha | Brown |
-| Orchid | Magenta |
+| `WL` | With Logo |
+| `WTL` | With Text Logo |
+| `WNTL` | Without Text Logo |
+| `WNP` | Without Particles and/or Post-Processing Effects |
+
+These codes are naming conventions. The build script converts them into readable display names but does not inspect the artwork to verify their visual meaning. Contributors and reviewers are responsible for ensuring that the artwork matches its description.
+
+### 4.2 Filename Structure
+
+The recommended convention is to place the variant code immediately after the pack name when a code is present.
+
+```text
+PackName/PackName-Descriptor.webp
+PackName/PackName-Descriptor-AdditionalDescriptor.webp
+
+PackName-WL/PackName-WL-Descriptor.webp
+PackName-WTL/PackName-WTL-Descriptor.webp
+PackName-WNTL/PackName-WNTL-Descriptor.webp
+PackName-WNP/PackName-WNP-Descriptor.webp
+```
+
+Examples:
+
+```text
+DriftAloft/DriftAloft-Aqua.webp
+DriftAloft/DriftAloft-Copper-Vintage.webp
+DriftAloft-WL/DriftAloft-WL-Aqua.webp
+DriftAloft-WTL/DriftAloft-WTL-Amethyst.webp
+DriftAloft-WNTL/DriftAloft-WNTL-Silver.webp
+DriftAloft-WNP/DriftAloft-WNP-Geometric.webp
+```
+
+The variant code in the filename must match the containing variant folder. The script removes the pack name prefix and can remove the matching variant code when it appears at the beginning or end of the remaining filename.
+
+For consistency and readability, prefer placing the code immediately after the pack name. Avoid using variant codes as ordinary descriptors in the base variant folder.
+
+### 4.3 How Display Names Are Generated
+
+The build script:
+
+1. Removes the file extension.
+2. Removes the pack name prefix.
+3. Removes the matching variant code associated with the containing folder, when present at the beginning or end of the remaining name.
+4. Converts the remaining hyphen-separated words into a readable display name, expanding recognized variant codes such as `WL` and `WNP`.
+
+For example:
+
+```text
+DriftAloft/DriftAloft-Copper-Vintage.webp
+→ Copper Vintage
+
+DriftAloft-WL/DriftAloft-WL-Aqua.webp
+→ Aqua
+
+DriftAloft-WL/DriftAloft-Aqua-WL.webp
+→ Aqua
+```
+
+Keep the pack name and variant folder consistent. The script derives names from paths and filenames, so inconsistent naming can produce unintended display names.
+
+### 4.4 Light and Dark Variants
+
+Use `Light` and `Dark` to distinguish overall tonal versions of the artwork.
+
+```text
+WallpaperName-Descriptor-Dark.webp
+WallpaperName-Descriptor-Dark-WL.webp
+WallpaperName-Descriptor-Light-WTL.webp
+```
+
+These are descriptive labels, not variant folder codes. When a wallpaper has a specific logo treatment, place it in the corresponding variant folder.
+
+## 5. Descriptor Guidelines
+
+Descriptors communicate the artwork's visual characteristics. Use existing descriptors whenever possible, and combine them only when each adds meaningful information.
+
+### 5.1 Color
+
+Use only the following approved color names for color variants. Minimum: 1. Maximum: 18.
+
+| Name | Intended Color |
+| --- | --- |
+| `Silver` | Grey |
+| `Titanium` | Extremely pale or greyish cyan |
+| `Aqua` | Vivid turquoise or cyan |
+| `Copper` | Deep red or reddish tones |
+| `Amethyst` | Violet or lilac |
+| `Radio` | Green |
+| `Gold` | Yellow or golden |
+| `Sweet` | Pink |
+| `Neon` | Vivid blue or similar electric tone |
+| `Honey` | Orange |
+| `Charcoal` | Black |
+| `Pearl` | White |
+| `Azure` | Sky blue or bright cerulean |
+| `Teal` | Emerald green |
+| `Coral` | Reddish pink |
+| `Sapphire` | Darker blue |
+| `Mocha` | Brown |
+| `Orchid` | Magenta |
 
 Use these names only for color variants. Do not use them as substitutes for aesthetic or technical descriptors.
 
-## Style and Design
+### 5.2 Style and Design
 
-- **Style:** Vintage, Natural, Urban, FreeStyle, Retro, Neo, Minimal, Bold, Thin, Flat, Clean, Sharp, Organic, Industrial, Cyber, Cosmic, Surreal, Mono
-- **Shapes and Patterns:** Geometric, Fluid, Fractal, Symmetric, Asymmetric, Centered, Layered
-- **Materials and Appearance:** Glass, Frosted, Translucent, Metallic, Iridescent, Pearlescent
-- **Texture and Effects:** Grainy, Noise, Blur, Glow, Glitch, Faded, Distortion
-- **Mood and Atmosphere:** Soft, Muted, Ambient, Atmospheric, Dreamy, Ethereal, Nord
+Use these descriptors to describe the overall visual style or design language.
 
-## Time of Day
+`Vintage`, `Natural`, `Urban`, `FreeStyle`, `Retro`, `Neo`, `Minimal`, `Bold`, `Thin`, `Flat`, `Clean`, `Sharp`, `Organic`, `Industrial`, `Cyber`, `Cosmic`, `Surreal`, `Mono`
 
-Morning, Afternoon, Evening, Night, Dawn, Dusk
+### 5.3 Shapes and Patterns
 
-## Seasonal
+Use these descriptors for composition, geometry, and recurring visual structures.
 
-Spring, Summer, Autumn, Winter
+`Geometric`, `Fluid`, `Fractal`, `Symmetric`, `Asymmetric`, `Centered`, `Layered`
 
-## Weather
+### 5.4 Materials and Appearance
 
-Sunshine, Cloudy, Raining, PartlyCloudy, Overcast, Snowy, Foggy, Thunder, Windy
+Use these descriptors for material qualities and surface appearance.
 
-## Technical
+`Glass`, `Frosted`, `Translucent`, `Metallic`, `Iridescent`, `Pearlescent`
 
-Dark, Light, AMOLED
+### 5.5 Texture and Effects
+
+Use these descriptors for visible textures and applied effects.
+
+`Grainy`, `Noise`, `Blur`, `Glow`, `Glitch`, `Faded`, `Distortion`
+
+### 5.6 Mood and Atmosphere
+
+Use these descriptors for the emotional or atmospheric character of the artwork.
+
+`Soft`, `Muted`, `Ambient`, `Atmospheric`, `Dreamy`, `Ethereal`, `Nord`
+
+### 5.7 Time of Day
+
+`Morning`, `Afternoon`, `Evening`, `Night`, `Dawn`, `Dusk`
+
+### 5.8 Seasons
+
+`Spring`, `Summer`, `Autumn`, `Winter`
+
+### 5.9 Weather
+
+`Sunshine`, `Cloudy`, `Raining`, `PartlyCloudy`, `Overcast`, `Snowy`, `Foggy`, `Thunder`, `Windy`
+
+### 5.10 Display and Technical Characteristics
+
+`Dark`, `Light`, `AMOLED`
 
 Use `Dark` and `Light` to distinguish overall tonal variants. Use `AMOLED` when the artwork is specifically designed for dark displays, such as through predominantly black areas intended to reduce power consumption on AMOLED screens.
 
-## Sequential Variants
+### 5.11 Sequential Variants
 
-Use `A`, `B`, `C` or `I`, `II`, `III` for photo sets without a hierarchy or for closely related variants with minor differences.
+Use `A`, `B`, `C` or `I`, `II`, `III` for photo sets without a hierarchy or closely related variants with minor differences.
 
-Sequential labels should be used only when no more descriptive name is appropriate.
+Use sequential labels only when no more descriptive name is appropriate.
 
-## Combining Descriptors
+### 5.12 Combining Descriptors
 
 Descriptors may be combined when each adds meaningful information.
-
-Examples:
 
 ```text
 WallpaperName-Copper-Vintage.webp
@@ -165,52 +278,13 @@ YourWallpaperName.webp
 YourWallpaperName-Dark.webp
 ```
 
-Do not introduce new descriptors without proposing them in an Issue or Pull Request. New descriptors will be reviewed before being accepted into this document.
+Do not introduce new descriptors without proposing them in an Issue or Pull Request. New descriptors will be reviewed before being added to this document.
 
+## 6. WNP: Without Particles and/or Post-Processing Effects
 
-### Filename Parsing and Manifest Names
+`WNP` identifies a version without particles and/or post-processing effects applied over the base artwork.
 
-The build script derives wallpaper display names from their filenames. It removes the pack name prefix and, when applicable, the variant code associated with the containing folder. Remaining hyphen-separated words are converted into a readable name in the wallpaper picker.
-
-Use the following naming convention:
-
-```text
-PackName/PackName-Descriptor.webp
-PackName/PackName-Descriptor-AdditionalDescriptor.webp
-PackName-WL/PackName-WL-Descriptor.webp
-PackName-WTL/PackName-WTL-Descriptor.webp
-PackName-WNTL/PackName-WNTL-Descriptor.webp
-PackName-WNP/PackName-WNP-Descriptor.webp
-```
-
-Examples:
-
-```text
-DriftAloft/DriftAloft-Aqua.webp
-DriftAloft/DriftAloft-Copper-Vintage.webp
-DriftAloft-WL/DriftAloft-WL-Aqua.webp
-DriftAloft-WTL/DriftAloft-WTL-Amethyst.webp
-DriftAloft-WNTL/DriftAloft-WNTL-Silver.webp
-DriftAloft-WNP/DriftAloft-WNP-Geometric.webp
-```
-
-The variant code must match the containing variant folder. Place the code immediately after the pack name in the filename so the build script can remove it correctly.
-
-Do not place the variant code at the end of the filename. The script does not automatically remove trailing variant codes from filenames, which can cause them to appear in the wallpaper's display name.
-
-The order of wallpapers within a variant is determined by the sorted file paths, not by the order in which files are listed in AUTHORS.md.
-
-### Light and Dark Variants
-
-```text
-WallpaperName-Descriptor-Dark.webp
-WallpaperName-Descriptor-Dark-WL.webp
-WallpaperName-Descriptor-Light-WTL.webp
-```
-
-### WNP: Without Particles and/or Post-Processing Effects
-
-WNP identifies a version without particles and/or post-processing effects applied over the base artwork. This includes, but is not limited to:
+This can include, but is not limited to:
 
 - Particles
 - Blur
@@ -220,34 +294,35 @@ WNP identifies a version without particles and/or post-processing effects applie
 - Vignetting
 - Distortion
 
-Use WNP when the corresponding particles and/or post-processing effects are absent. The artwork does not have to be completely unprocessed.
+Use `WNP` when the corresponding particles and/or post-processing effects are absent. The artwork does not have to be completely unprocessed.
 
-- "This particular versión from my wallpaper pack doesn't have blur, but the base versión has it"
+For example, a wallpaper pack may contain a base version with blur and a `WNP` version without that blur.
 
-## Compression and Image Quality
+## 7. Compression and Image Quality
 
 - Avoid excessive compression artifacts.
-- WEBP submissions should preserve visual clarity. Lossless WEBP is recommended whenever practical.
-- Do not artificially upscale low-resolution images to meet the minimum resolution requirement. AI-based upscaling must not be used to disguise artwork that does not meet the required resolution.
+- Preserve visual clarity in WEBP submissions. Lossless WEBP is recommended whenever practical.
+- Do not artificially upscale low-resolution images to meet the minimum resolution requirement.
+- AI-based upscaling must not be used to disguise artwork that does not meet the required resolution.
 - Ensure the final image uses the sRGB color profile.
 - Inspect gradients, smooth transitions, and fine details for visible banding, noise, or compression artifacts before submitting.
 
-## How to Submit
+## 8. How to Submit
 
 1. Fork this repository.
 2. Create your wallpaper pack in the repository root.
 3. Add the required `AUTHORS.md` file and base variant folder.
-4. Follow the folder, file, color, and descriptor naming conventions.
-5. Open a Pull Request with a short description of your wallpaper and its variants.
+4. Follow the folder, file, variant, color, and descriptor naming conventions.
+5. Open a Pull Request with a short description of your artwork and its variants.
 6. Wait for review and address any requested changes.
 
-## What Will Be Rejected
+## 9. Reasons for Rejection
 
 Submissions may be rejected for any of the following reasons:
 
 - Resolution below 1440 × 3200 px.
 - AI-generated artwork or unauthorized edits of third-party work.
-- Use of unapproved descriptors.
+- Unapproved descriptors.
 - Folder or file names containing spaces or inconsistent naming.
 - Missing `AUTHORS.md` or base variant folder.
 - Excessive compression artifacts or artificially upscaled images.
