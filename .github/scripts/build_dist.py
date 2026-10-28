@@ -148,7 +148,7 @@ def main():
 
         variants = packs[pack]["variants"]
         if variant_folder not in variants:
-            variants[variant_folder] = {"name": readable(variant), "items": []}
+            variants[variant_folder] = {"name": readable(variant) or "Default", "items": []}
 
         variants[variant_folder]["items"].append({
             "name": readable(name),
