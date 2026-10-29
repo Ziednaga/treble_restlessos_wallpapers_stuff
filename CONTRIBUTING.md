@@ -44,7 +44,7 @@ YourWallpaperName/
 ```
 
 - `AUTHORS.md` is mandatory.
-- The base variant, stored in the folder matching the pack name, is mandatory.
+- The base variant, stored in the folder matching the pack name, is optional. A pack needs at least one variant folder.
 - Additional variant folders are optional.
 - Each variant folder must follow the naming conventions described in Section 4.
 
@@ -312,7 +312,7 @@ For example, a wallpaper pack may contain a base version with blur and a `WNP` v
 
 1. Fork this repository.
 2. Create your wallpaper pack in the repository root.
-3. Add the required `AUTHORS.md` file and base variant folder.
+3. Add the required `AUTHORS.md` file and at least one variant folder.
 4. Follow the folder, file, variant, color, and descriptor naming conventions.
 5. Open a Pull Request with a short description of your artwork and its variants.
 6. Wait for review and address any requested changes.
@@ -325,7 +325,7 @@ Submissions may be rejected for any of the following reasons:
 - AI-generated artwork or unauthorized edits of third-party work.
 - Unapproved descriptors.
 - Folder or file names containing spaces or inconsistent naming.
-- Missing `AUTHORS.md` or base variant folder.
+- Missing `AUTHORS.md` or variant folders.
 - Excessive compression artifacts or artificially upscaled images.
 - Incorrect color profile or other violations of the required format.
 
