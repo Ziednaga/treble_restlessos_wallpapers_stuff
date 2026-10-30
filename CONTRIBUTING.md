@@ -192,7 +192,7 @@ Use only the following approved color names for color variants. Minimum: 1. Maxi
 | `Charcoal` | Black |
 | `Pearl` | White |
 | `Azure` | Sky blue or bright cerulean |
-| `Teal` | Emerald green |
+| `Emerald` | Teal |
 | `Coral` | Reddish pink |
 | `Sapphire` | Darker blue |
 | `Mocha` | Brown |
